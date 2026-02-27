@@ -51,15 +51,21 @@ const HospitalCard = ({ hospital }: HospitalCardProps) => {
       </div>
 
       {/* CTA */}
-      <a
-        href={hospital.website}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="mt-auto inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 px-4 py-2.5 text-sm font-medium text-white hover:bg-blue-700 active:scale-95 transition-all duration-150"
-      >
-        前往官方網站
-        <ExternalLink size={14} />
-      </a>
+      {hospital.website ? (
+        <a
+          href={hospital.website}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-auto inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 px-4 py-2.5 text-sm font-medium text-white hover:bg-blue-700 active:scale-95 transition-all duration-150"
+        >
+          前往官方網站
+          <ExternalLink size={14} />
+        </a>
+      ) : (
+        <div className="mt-auto inline-flex items-center justify-center gap-2 rounded-xl bg-gray-100 px-4 py-2.5 text-sm font-medium text-gray-400 cursor-not-allowed">
+          官方網站未提供
+        </div>
+      )}
     </div>
   );
 };

@@ -5,7 +5,7 @@ export interface Hospital {
   district: string;
   address: string;
   phone: string;
-  website: string;
+  website?: string;
   logoUrl?: string;
   services: string[];
 }
@@ -19,7 +19,9 @@ export type City =
   | "高雄市"
   | "基隆市"
   | "新竹市"
+  | "新竹縣"
   | "嘉義市"
+  | "嘉義縣"
   | "苗栗縣"
   | "彰化縣"
   | "南投縣"
