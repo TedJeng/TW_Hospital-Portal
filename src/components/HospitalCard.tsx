@@ -44,12 +44,17 @@ const HospitalCard = ({
       </div>
 
       {/* Address */}
-      <div className="flex items-start gap-2 text-sm text-gray-500">
-        <MapPin size={15} className="mt-0.5 shrink-0 text-gray-400" />
-        <span>
+      <a
+        href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(hospital.address)}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="flex items-start gap-2 text-sm text-gray-500 hover:text-blue-600 group transition-colors"
+      >
+        <MapPin size={15} className="mt-0.5 shrink-0 text-gray-400 group-hover:text-blue-500 transition-colors" />
+        <span className="group-hover:underline underline-offset-2">
           {hospital.district}・{hospital.address}
         </span>
-      </div>
+      </a>
 
       {/* Phone */}
       <div className="flex items-center gap-2 text-sm text-gray-500">
