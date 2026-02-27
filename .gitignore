@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local tools / AI assistant
+.claude/
+
+# raw data files (too large for git)
+*.ods
+*.xlsx
+*.xls
