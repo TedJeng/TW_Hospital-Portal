@@ -2,6 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 import type { Hospital, ApiResponse } from "@/types";
 import hospitalsData from "@/data/hospitals.json";
 
+export const dynamic = "force-dynamic";
+
 const hospitals = hospitalsData as Hospital[];
 
 export const GET = async (request: NextRequest) => {
