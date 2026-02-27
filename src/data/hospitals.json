@@ -1,0 +1,102 @@
+[
+  {
+    "id": "tpch-001",
+    "name": "臺北市立聯合醫院",
+    "city": "台北市",
+    "district": "中正區",
+    "address": "台北市中正區林森南路530號",
+    "phone": "02-2555-3000",
+    "website": "https://www.tpech.gov.tw",
+    "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "tpch-002",
+    "name": "臺北市立萬芳醫院",
+    "city": "台北市",
+    "district": "文山區",
+    "address": "台北市文山區興隆路三段111號",
+    "phone": "02-2930-7930",
+    "website": "https://www.wanfang.gov.tw",
+    "services": ["急診", "門診", "住院", "復健"]
+  },
+  {
+    "id": "ntpc-001",
+    "name": "新北市立聯合醫院",
+    "city": "新北市",
+    "district": "三重區",
+    "address": "新北市三重區中山路2號",
+    "phone": "02-2982-9111",
+    "website": "https://www.ntuh.gov.tw",
+    "services": ["急診", "門診", "住院"]
+  },
+  {
+    "id": "tych-001",
+    "name": "桃園市立醫院",
+    "city": "桃園市",
+    "district": "桃園區",
+    "address": "桃園市桃園區中山路1492號",
+    "phone": "03-332-2111",
+    "website": "https://www.tygh.gov.tw",
+    "services": ["急診", "門診", "住院", "精神科"]
+  },
+  {
+    "id": "tach-001",
+    "name": "台中市立醫院",
+    "city": "台中市",
+    "district": "西區",
+    "address": "台中市西區三民路一段199號",
+    "phone": "04-2294-0161",
+    "website": "https://www.cmuh.cmu.edu.tw",
+    "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "tnch-001",
+    "name": "台南市立醫院",
+    "city": "台南市",
+    "district": "東區",
+    "address": "台南市東區崇德路670號",
+    "phone": "06-260-9926",
+    "website": "https://www.tnmh.gov.tw",
+    "services": ["急診", "門診", "住院"]
+  },
+  {
+    "id": "ksch-001",
+    "name": "高雄市立聯合醫院",
+    "city": "高雄市",
+    "district": "苓雅區",
+    "address": "高雄市苓雅區中正一路68號",
+    "phone": "07-251-1131",
+    "website": "https://www.kmuh.gov.tw",
+    "services": ["急診", "門診", "住院", "復健"]
+  },
+  {
+    "id": "klch-001",
+    "name": "基隆市立醫院",
+    "city": "基隆市",
+    "district": "中正區",
+    "address": "基隆市中正區義一路30號",
+    "phone": "02-2428-1127",
+    "website": "https://www.klh.gov.tw",
+    "services": ["急診", "門診", "住院"]
+  },
+  {
+    "id": "hcch-001",
+    "name": "新竹市立東元醫院",
+    "city": "新竹市",
+    "district": "東區",
+    "address": "新竹市東區中華路二段69號",
+    "phone": "03-527-2151",
+    "website": "https://www.teh.com.tw",
+    "services": ["急診", "門診", "住院"]
+  },
+  {
+    "id": "cych-001",
+    "name": "嘉義市立醫院",
+    "city": "嘉義市",
+    "district": "東區",
+    "address": "嘉義市東區忠孝路539號",
+    "phone": "05-233-6999",
+    "website": "https://www.cych.gov.tw",
+    "services": ["急診", "門診", "住院", "健檢"]
+  }
+]
