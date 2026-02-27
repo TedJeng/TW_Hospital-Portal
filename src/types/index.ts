@@ -20,10 +20,17 @@ export type City =
   | "基隆市"
   | "新竹市"
   | "嘉義市"
+  | "苗栗縣"
+  | "彰化縣"
+  | "南投縣"
+  | "雲林縣"
+  | "屏東縣"
   | "宜蘭縣"
   | "花蓮縣"
   | "台東縣"
-  | "澎湖縣";
+  | "澎湖縣"
+  | "金門縣"
+  | "連江縣";
 
 export interface HospitalSearchParams {
   city?: string;

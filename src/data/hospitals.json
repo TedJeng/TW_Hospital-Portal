@@ -1,102 +1,342 @@
 [
   {
-    "id": "tpch-001",
-    "name": "臺北市立聯合醫院",
-    "city": "台北市",
-    "district": "中正區",
-    "address": "台北市中正區林森南路530號",
-    "phone": "02-2555-3000",
-    "website": "https://www.tpech.gov.tw",
+    "id": "mohw-keelung",
+    "name": "衛生福利部基隆醫院",
+    "city": "基隆市",
+    "district": "信義區",
+    "address": "基隆市信義區信二路268號",
+    "phone": "02-2429-2525",
+    "website": "https://www.kln.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "長照"]
+  },
+  {
+    "id": "mohw-taipei",
+    "name": "衛生福利部臺北醫院",
+    "city": "新北市",
+    "district": "新莊區",
+    "address": "新北市新莊區思源路127號",
+    "phone": "02-2276-5566",
+    "website": "https://www.tph.mohw.gov.tw/",
     "services": ["急診", "門診", "住院", "健檢"]
   },
   {
-    "id": "tpch-002",
+    "id": "mohw-shuanghe",
+    "name": "衛生福利部雙和醫院",
+    "city": "新北市",
+    "district": "中和區",
+    "address": "新北市中和區中正路291號",
+    "phone": "02-2249-0088",
+    "website": "https://www.shh.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "癌症中心"]
+  },
+  {
+    "id": "mohw-taoyuan",
+    "name": "衛生福利部桃園醫院",
+    "city": "桃園市",
+    "district": "桃園區",
+    "address": "桃園市桃園區中山路1492號",
+    "phone": "03-369-9721",
+    "website": "https://www.tygh.mohw.gov.tw/",
+    "services": ["急診", "門診", "癌症中心", "健檢"]
+  },
+  {
+    "id": "mohw-hsinchu",
+    "name": "衛生福利部新竹醫院",
+    "city": "新竹市",
+    "district": "東區",
+    "address": "新竹市東區中華路二段69號",
+    "phone": "03-532-6151",
+    "website": "https://www.hch.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "mohw-miaoli",
+    "name": "衛生福利部苗栗醫院",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "address": "苗栗縣苗栗市為公路747號",
+    "phone": "037-261-920",
+    "website": "https://www.mlh.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "復健"]
+  },
+  {
+    "id": "mohw-fengyuan",
+    "name": "衛生福利部豐原醫院",
+    "city": "台中市",
+    "district": "豐原區",
+    "address": "台中市豐原區安康路100號",
+    "phone": "04-2527-1180",
+    "website": "https://www.fyh.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "長照"]
+  },
+  {
+    "id": "mohw-taichung",
+    "name": "衛生福利部臺中醫院",
+    "city": "台中市",
+    "district": "西區",
+    "address": "台中市西區三民路一段199號",
+    "phone": "04-2229-4411",
+    "website": "https://www.tch.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "mohw-changhua",
+    "name": "衛生福利部彰化醫院",
+    "city": "彰化縣",
+    "district": "埔心鄉",
+    "address": "彰化縣埔心鄉中正路二段80號",
+    "phone": "04-829-8686",
+    "website": "https://www.chhw.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "精神科"]
+  },
+  {
+    "id": "mohw-nantou",
+    "name": "衛生福利部南投醫院",
+    "city": "南投縣",
+    "district": "南投市",
+    "address": "南投縣南投市復興路478號",
+    "phone": "049-223-1150",
+    "website": "https://www.nant.mohw.gov.tw/",
+    "services": ["急診", "門診", "安寧療護", "透析"]
+  },
+  {
+    "id": "mohw-chiayi",
+    "name": "衛生福利部嘉義醫院",
+    "city": "嘉義市",
+    "district": "西區",
+    "address": "嘉義市西區北港路312號",
+    "phone": "05-231-9060",
+    "website": "https://www.chyi.mohw.gov.tw/",
+    "services": ["門診", "住院", "高齡友善", "健檢"]
+  },
+  {
+    "id": "mohw-sinying",
+    "name": "衛生福利部新營醫院",
+    "city": "台南市",
+    "district": "新營區",
+    "address": "台南市新營區信義街73號",
+    "phone": "06-635-1131",
+    "website": "https://www.syh.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "復健"]
+  },
+  {
+    "id": "mohw-tainan",
+    "name": "衛生福利部臺南醫院",
+    "city": "台南市",
+    "district": "中西區",
+    "address": "台南市中西區中山路125號",
+    "phone": "06-220-0055",
+    "website": "https://www.tnhosp.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "mohw-cishan",
+    "name": "衛生福利部旗山醫院",
+    "city": "高雄市",
+    "district": "旗山區",
+    "address": "高雄市旗山區中學路33號",
+    "phone": "07-661-3811",
+    "website": "https://www.cish.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "長照"]
+  },
+  {
+    "id": "mohw-pingtung",
+    "name": "衛生福利部屏東醫院",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "address": "屏東縣屏東市自由路270號",
+    "phone": "08-736-3011",
+    "website": "https://www.pntn.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "中醫"]
+  },
+  {
+    "id": "mohw-hualien",
+    "name": "衛生福利部花蓮醫院",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "address": "花蓮縣花蓮市中正路600號",
+    "phone": "03-835-8141",
+    "website": "https://www.hlh.mohw.gov.tw/",
+    "services": ["門診", "住院", "精神醫療", "日照"]
+  },
+  {
+    "id": "mohw-yuli",
+    "name": "衛生福利部玉里醫院",
+    "city": "花蓮縣",
+    "district": "玉里鎮",
+    "address": "花蓮縣玉里鎮中華路448號",
+    "phone": "03-888-6141",
+    "website": "https://www.ttyl.mohw.gov.tw/",
+    "services": ["門診", "住院", "精神醫療", "復健"]
+  },
+  {
+    "id": "mohw-taitung",
+    "name": "衛生福利部臺東醫院",
+    "city": "台東縣",
+    "district": "台東市",
+    "address": "台東縣台東市五權街1號",
+    "phone": "089-324-112",
+    "website": "https://www.tth.mohw.gov.tw/",
+    "services": ["門診", "住院", "洗腎", "復健"]
+  },
+  {
+    "id": "mohw-penghu",
+    "name": "衛生福利部澎湖醫院",
+    "city": "澎湖縣",
+    "district": "馬公市",
+    "address": "澎湖縣馬公市中正路490號",
+    "phone": "06-926-1151",
+    "website": "https://www.phh.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "mohw-kinmen",
+    "name": "衛生福利部金門醫院",
+    "city": "金門縣",
+    "district": "金湖鎮",
+    "address": "金門縣金湖鎮復興路2號",
+    "phone": "082-332-546",
+    "website": "https://www.kmh.mohw.gov.tw/",
+    "services": ["急診", "門診", "住院", "復健"]
+  },
+  {
+    "id": "tpch-union",
+    "name": "臺北市立聯合醫院",
+    "city": "台北市",
+    "district": "中山區",
+    "address": "台北市中山區林森北路530號（中興院區）",
+    "phone": "02-2555-3000",
+    "website": "https://tpech.gov.taipei/",
+    "services": ["急診", "門診", "住院", "中醫"]
+  },
+  {
+    "id": "tpch-wanfang",
     "name": "臺北市立萬芳醫院",
     "city": "台北市",
     "district": "文山區",
     "address": "台北市文山區興隆路三段111號",
     "phone": "02-2930-7930",
-    "website": "https://www.wanfang.gov.tw",
-    "services": ["急診", "門診", "住院", "復健"]
+    "website": "https://www.wanfang.gov.taipei/",
+    "services": ["急診", "門診", "住院", "癌症中心"]
   },
   {
-    "id": "ntpc-001",
-    "name": "新北市立聯合醫院",
-    "city": "新北市",
-    "district": "三重區",
-    "address": "新北市三重區中山路2號",
-    "phone": "02-2982-9111",
-    "website": "https://www.ntuh.gov.tw",
-    "services": ["急診", "門診", "住院"]
+    "id": "tpch-guandu",
+    "name": "臺北市立關渡醫院",
+    "city": "台北市",
+    "district": "北投區",
+    "address": "台北市北投區知行路225號",
+    "phone": "02-2858-7000",
+    "website": "https://www.gdh.gov.taipei/",
+    "services": ["門診", "住院", "復健", "長照"]
   },
   {
-    "id": "tych-001",
-    "name": "桃園市立醫院",
-    "city": "桃園市",
-    "district": "桃園區",
-    "address": "桃園市桃園區中山路1492號",
-    "phone": "03-332-2111",
-    "website": "https://www.tygh.gov.tw",
-    "services": ["急診", "門診", "住院", "精神科"]
-  },
-  {
-    "id": "tach-001",
-    "name": "台中市立醫院",
-    "city": "台中市",
-    "district": "西區",
-    "address": "台中市西區三民路一段199號",
-    "phone": "04-2294-0161",
-    "website": "https://www.cmuh.cmu.edu.tw",
-    "services": ["急診", "門診", "住院", "健檢"]
-  },
-  {
-    "id": "tnch-001",
-    "name": "台南市立醫院",
-    "city": "台南市",
-    "district": "東區",
-    "address": "台南市東區崇德路670號",
-    "phone": "06-260-9926",
-    "website": "https://www.tnmh.gov.tw",
-    "services": ["急診", "門診", "住院"]
-  },
-  {
-    "id": "ksch-001",
-    "name": "高雄市立聯合醫院",
-    "city": "高雄市",
-    "district": "苓雅區",
-    "address": "高雄市苓雅區中正一路68號",
-    "phone": "07-251-1131",
-    "website": "https://www.kmuh.gov.tw",
-    "services": ["急診", "門診", "住院", "復健"]
-  },
-  {
-    "id": "klch-001",
+    "id": "klch-muni",
     "name": "基隆市立醫院",
     "city": "基隆市",
     "district": "中正區",
     "address": "基隆市中正區義一路30號",
-    "phone": "02-2428-1127",
-    "website": "https://www.klh.gov.tw",
+    "phone": "02-2428-8288",
+    "website": "https://www.klch.gov.tw/",
     "services": ["急診", "門診", "住院"]
   },
   {
-    "id": "hcch-001",
-    "name": "新竹市立東元醫院",
-    "city": "新竹市",
-    "district": "東區",
-    "address": "新竹市東區中華路二段69號",
-    "phone": "03-527-2151",
-    "website": "https://www.teh.com.tw",
-    "services": ["急診", "門診", "住院"]
-  },
-  {
-    "id": "cych-001",
-    "name": "嘉義市立醫院",
-    "city": "嘉義市",
-    "district": "東區",
-    "address": "嘉義市東區忠孝路539號",
-    "phone": "05-233-6999",
-    "website": "https://www.cych.gov.tw",
+    "id": "ntpc-union",
+    "name": "新北市立聯合醫院",
+    "city": "新北市",
+    "district": "板橋區",
+    "address": "新北市板橋區中正路268號",
+    "phone": "02-2254-6666",
+    "website": "https://www.ntcuh.gov.tw/",
     "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "tych-muni",
+    "name": "桃園市立醫院",
+    "city": "桃園市",
+    "district": "桃園區",
+    "address": "桃園市桃園區成功路二段273號",
+    "phone": "03-332-5454",
+    "website": "https://www.tygh.gov.tw/",
+    "services": ["急診", "門診", "住院", "精神科"]
+  },
+  {
+    "id": "tach-union",
+    "name": "臺中市立聯合醫院",
+    "city": "台中市",
+    "district": "南區",
+    "address": "台中市南區仁和路1777號",
+    "phone": "04-2228-8833",
+    "website": "https://www.tcmh.gov.tw/",
+    "services": ["急診", "門診", "住院", "復健"]
+  },
+  {
+    "id": "tnch-muni",
+    "name": "臺南市立醫院",
+    "city": "台南市",
+    "district": "東區",
+    "address": "台南市東區崇德路670號",
+    "phone": "06-260-9926",
+    "website": "https://www.tnmh.gov.tw/",
+    "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "tnch-annan",
+    "name": "臺南市立安南醫院",
+    "city": "台南市",
+    "district": "安南區",
+    "address": "台南市安南區長和路二段66號",
+    "phone": "06-355-9630",
+    "website": "https://www.tahmg.com.tw/",
+    "services": ["急診", "門診", "住院", "癌症中心"]
+  },
+  {
+    "id": "ksch-tatung",
+    "name": "高雄市立大同醫院",
+    "city": "高雄市",
+    "district": "前金區",
+    "address": "高雄市前金區中華三路68號",
+    "phone": "07-291-1101",
+    "website": "https://www.kmtth.com.tw/",
+    "services": ["急診", "門診", "住院", "健檢"]
+  },
+  {
+    "id": "ksch-minsheng",
+    "name": "高雄市立民生醫院",
+    "city": "高雄市",
+    "district": "鳳山區",
+    "address": "高雄市鳳山區民族路215號",
+    "phone": "07-748-1919",
+    "website": "https://www.kmsh.gov.tw/",
+    "services": ["急診", "門診", "住院", "復健"]
+  },
+  {
+    "id": "ksch-siaogang",
+    "name": "高雄市立小港醫院",
+    "city": "高雄市",
+    "district": "小港區",
+    "address": "高雄市小港區山明路482號",
+    "phone": "07-803-6783",
+    "website": "https://www.kmhk.gov.tw/",
+    "services": ["急診", "門診", "住院", "癌症中心"]
+  },
+  {
+    "id": "ksch-cijin",
+    "name": "高雄市立旗津醫院",
+    "city": "高雄市",
+    "district": "旗津區",
+    "address": "高雄市旗津區旗津三路600號",
+    "phone": "07-571-3811",
+    "website": "https://www.kizh.gov.tw/",
+    "services": ["急診", "門診", "住院"]
+  },
+  {
+    "id": "ksch-kaisyuan",
+    "name": "高雄市立凱旋醫院",
+    "city": "高雄市",
+    "district": "苓雅區",
+    "address": "高雄市苓雅區凱旋二路130號",
+    "phone": "07-751-3171",
+    "website": "https://www.ksph.gov.tw/",
+    "services": ["門診", "住院", "精神科", "藥酒癮治療"]
   }
 ]
