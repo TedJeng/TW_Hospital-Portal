@@ -1,11 +1,17 @@
-import { MapPin, Phone, ExternalLink, Tag } from "lucide-react";
+import { MapPin, Phone, ExternalLink, Tag, Heart } from "lucide-react";
 import type { Hospital } from "@/types";
 
 interface HospitalCardProps {
   hospital: Hospital;
+  isFavorite?: boolean;
+  onToggleFavorite?: () => void;
 }
 
-const HospitalCard = ({ hospital }: HospitalCardProps) => {
+const HospitalCard = ({
+  hospital,
+  isFavorite = false,
+  onToggleFavorite,
+}: HospitalCardProps) => {
   return (
     <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 flex flex-col gap-3 hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
       {/* Header */}
@@ -13,10 +19,28 @@ const HospitalCard = ({ hospital }: HospitalCardProps) => {
         <h2 className="text-lg font-bold text-gray-800 leading-tight">
           {hospital.name}
         </h2>
-        <span className="shrink-0 inline-flex items-center gap-1 rounded-full bg-blue-100 px-2.5 py-0.5 text-xs font-medium text-blue-700">
-          <Tag size={10} />
-          {hospital.city}
-        </span>
+        <div className="flex items-center gap-1.5 shrink-0">
+          <span className="inline-flex items-center gap-1 rounded-full bg-blue-100 px-2.5 py-0.5 text-xs font-medium text-blue-700">
+            <Tag size={10} />
+            {hospital.city}
+          </span>
+          {onToggleFavorite && (
+            <button
+              onClick={onToggleFavorite}
+              aria-label={isFavorite ? "取消常用" : "加入常用"}
+              className="p-1 rounded-lg hover:bg-gray-50 transition-colors"
+            >
+              <Heart
+                size={18}
+                className={
+                  isFavorite
+                    ? "fill-red-500 text-red-500"
+                    : "text-gray-300 hover:text-red-400 transition-colors"
+                }
+              />
+            </button>
+          )}
+        </div>
       </div>
 
       {/* Address */}
