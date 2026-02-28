@@ -6,6 +6,7 @@ export interface Hospital {
   address: string;
   phone: string;
   website?: string;
+  appointmentUrl?: string;
   logoUrl?: string;
   services: string[];
 }
