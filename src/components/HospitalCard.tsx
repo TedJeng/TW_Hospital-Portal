@@ -1,4 +1,4 @@
-import { MapPin, Phone, ExternalLink, Tag, Heart } from "lucide-react";
+import { MapPin, Phone, ExternalLink, Tag, Heart, CalendarDays } from "lucide-react";
 import type { Hospital } from "@/types";
 
 interface HospitalCardProps {
@@ -80,21 +80,36 @@ const HospitalCard = ({
       </div>
 
       {/* CTA */}
-      {hospital.website ? (
-        <a
-          href={hospital.website}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mt-auto inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 px-4 py-2.5 text-sm font-medium text-white hover:bg-blue-700 active:scale-95 transition-all duration-150"
-        >
-          前往官方網站
-          <ExternalLink size={14} />
-        </a>
-      ) : (
-        <div className="mt-auto inline-flex items-center justify-center gap-2 rounded-xl bg-gray-100 px-4 py-2.5 text-sm font-medium text-gray-400 cursor-not-allowed">
-          官方網站未提供
-        </div>
-      )}
+      <div className="mt-auto flex flex-col gap-2">
+        {hospital.appointmentUrl && (
+          <a
+            href={hospital.appointmentUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center gap-2 rounded-xl bg-emerald-600 px-4 py-2.5 text-sm font-medium text-white hover:bg-emerald-700 active:scale-95 transition-all duration-150"
+          >
+            <CalendarDays size={14} />
+            網路掛號
+          </a>
+        )}
+        {hospital.website ? (
+          <a
+            href={hospital.website}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 px-4 py-2.5 text-sm font-medium text-white hover:bg-blue-700 active:scale-95 transition-all duration-150"
+          >
+            前往官方網站
+            <ExternalLink size={14} />
+          </a>
+        ) : (
+          !hospital.appointmentUrl && (
+            <div className="inline-flex items-center justify-center gap-2 rounded-xl bg-gray-100 px-4 py-2.5 text-sm font-medium text-gray-400 cursor-not-allowed">
+              官方網站未提供
+            </div>
+          )
+        )}
+      </div>
     </div>
   );
 };

@@ -6,7 +6,7 @@
     "district": "松山區",
     "address": "臺北市松山區八德路二段424,426號",
     "phone": "02-2771-8151",
-    "website": "",
+    "website": "http://www.tahsda.org.tw/",
     "services": [
       "門診",
       "住院",
@@ -21,13 +21,14 @@
     "district": "松山區",
     "address": "臺北市松山區敦化北路199號、197號、臺北市松山區敦化北路199巷6號",
     "phone": "02-2713-5211",
-    "website": "",
+    "website": "https://www.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register/1"
   },
   {
     "id": "0501010019",
@@ -36,13 +37,14 @@
     "district": "松山區",
     "address": "臺北市松山區健康路１３１號",
     "phone": "02-2746-2151",
-    "website": "",
+    "website": "https://songshan.tsgh.ndmctsgh.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.807.mnd.gov.tw/"
   },
   {
     "id": "1501010010",
@@ -51,13 +53,14 @@
     "district": "松山區",
     "address": "臺北市松山區光復北路66號、68號地下一層、68號、68號2至7樓、68號2樓之1至7樓之1、68號2樓之2至7樓之2",
     "phone": "02-2578-6677",
-    "website": "",
+    "website": "http://www.pojengh.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://iregister.pojengh.com.tw/Appointment/frmAppointment_Divisions.aspx"
   },
   {
     "id": "1501010029",
@@ -82,7 +85,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "1101020036",
@@ -91,13 +95,14 @@
     "district": "大安區",
     "address": "臺北市大安區仁愛路四段71巷1號、仁 愛路四段61號、仁愛路四段91巷16號",
     "phone": "02-2771-3161",
-    "website": "",
+    "website": "https://www.country.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://www.country.org.tw/%E5%B0%B1%E9%86%AB%E6%8C%87%E5%8D%97/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F"
   },
   {
     "id": "0401020013",
@@ -106,13 +111,14 @@
     "district": "大安區",
     "address": "臺北市大安區基隆路 3段155巷57號",
     "phone": "02-2322-0322",
-    "website": "",
+    "website": "https://www.ntucc.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntuh.gov.tw/WebReg/WebReg/BranchIndex?vHospCode=C0"
   },
   {
     "id": "1501021219",
@@ -121,10 +127,11 @@
     "district": "大安區",
     "address": "臺北市大安區光復南路116巷1、3、5號1至4樓及地下1樓",
     "phone": "2771-7172",
-    "website": "",
+    "website": "http://www.csshow.org.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.csshow.org.tw/new_treatment/treatment_06.asp"
   },
   {
     "id": "1101020027",
@@ -139,7 +146,8 @@
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://59.120.35.134/NetReg/KReg/DivList.aspx?Func=Reg"
   },
   {
     "id": "2101020019",
@@ -151,7 +159,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "0901020013",
@@ -160,13 +169,14 @@
     "district": "大安區",
     "address": "臺北市大安區仁愛路四段112巷11號",
     "phone": "02-2708-1166",
-    "website": "",
+    "website": "https://www.csh.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "癌症中心"
-    ]
+    ],
+    "appointmentUrl": "https://www.csh.com.tw/registered.php"
   },
   {
     "id": "1101020018",
@@ -175,13 +185,14 @@
     "district": "大安區",
     "address": "臺北市大安區仁愛路四段266巷6號，280號",
     "phone": "02-2708-2121",
-    "website": "",
+    "website": "https://www.cgh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.cgh.org.tw/tw/reg/main.jsp"
   },
   {
     "id": "2101090011",
@@ -194,7 +205,8 @@
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "0101090517",
@@ -207,7 +219,8 @@
     "services": [
       "門診",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "2101100227",
@@ -219,7 +232,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "1501101141",
@@ -240,13 +254,14 @@
     "district": "中山區",
     "address": "臺北市中山區中山北路2段92號",
     "phone": "02-2543-3535",
-    "website": "",
+    "website": "https://www2.mmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.mmh.org.tw/child/find_division.php"
   },
   {
     "id": "1101100011",
@@ -255,13 +270,14 @@
     "district": "中山區",
     "address": "臺北市中山區中山北路二段９２號",
     "phone": "02-2543-3535",
-    "website": "",
+    "website": "https://www.mmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.mmh.org.tw/find_division.php"
   },
   {
     "id": "1501100037",
@@ -270,10 +286,11 @@
     "district": "中山區",
     "address": "臺北市中山區松江路85巷5號1，2，3，4樓、93巷6號1，2，4樓",
     "phone": "02-2507-2222",
-    "website": "",
+    "website": "http://www.woman.org.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.womanappointment.com/online_registration_web.php"
   },
   {
     "id": "1101110026",
@@ -282,13 +299,14 @@
     "district": "內湖區",
     "address": "臺北市內湖區成功路五段４２０巷２６號",
     "phone": "2634-5500",
-    "website": "",
+    "website": "http://www.knh.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.knh.org.tw/reg"
   },
   {
     "id": "0501110514",
@@ -297,13 +315,14 @@
     "district": "內湖區",
     "address": "臺北市內湖區成功路二段325號；臺北市中正區汀州路3段40號",
     "phone": "",
-    "website": "",
+    "website": "https://www.tsgh.ndmctsgh.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www2.ndmctsgh.edu.tw/newwebreg/Register/Area?pos=B"
   },
   {
     "id": "2101110027",
@@ -315,7 +334,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "1301110511",
@@ -324,13 +344,14 @@
     "district": "內湖區",
     "address": "臺北市內湖區內湖路二段360號、362號",
     "phone": "02-2791-9696",
-    "website": "",
+    "website": "https://www.cmuh.cmu.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.cmuh.cmu.edu.tw/BrandHome/PageIndex/57"
   },
   {
     "id": "1701110019",
@@ -354,7 +375,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "2101150012",
@@ -366,7 +388,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "1101150011",
@@ -375,13 +398,14 @@
     "district": "士林區",
     "address": "臺北市士林區文昌路95號及士商路51號、51號2樓、51號3樓、51號4樓、51號5樓、51號6樓、51號7樓、53號、55號、57號、臺北市士林區基河路252號1樓",
     "phone": "02-2833-2211",
-    "website": "",
+    "website": "https://www.skh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.skh.org.tw/skh_regis/#/register/step"
   },
   {
     "id": "0501160014",
@@ -390,12 +414,13 @@
     "district": "北投區",
     "address": "臺北市北投區新民路60號、中和街250號1至4樓、永興路二段2號1至2樓",
     "phone": "02-2895-9808",
-    "website": "",
+    "website": "https://beitou.tsgh.ndmctsgh.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科"
-    ]
+    ],
+    "appointmentUrl": "https://reg.818h.mnd.gov.tw/"
   },
   {
     "id": "1501160042",
@@ -420,7 +445,8 @@
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "1101160017",
@@ -429,13 +455,14 @@
     "district": "北投區",
     "address": "臺北市北投區振興街４５號",
     "phone": "02-2826-4400",
-    "website": "",
+    "website": "https://www.chgh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://reg.chgh.org.tw/registc_cload.aspx"
   },
   {
     "id": "1101160026",
@@ -444,13 +471,14 @@
     "district": "北投區",
     "address": "臺北市北投區立德路１２５號",
     "phone": "02-2897-0011",
-    "website": "",
+    "website": "https://www.kfsyscc.org/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.kfsyscc.org/public/first_visit/"
   },
   {
     "id": "0601160016",
@@ -459,13 +487,14 @@
     "district": "北投區",
     "address": "臺北市北投區石牌路二段201號、322號",
     "phone": "02-2871-2121",
-    "website": "",
+    "website": "https://www.vghtpe.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www6.vghtpe.gov.tw/reg/home.do"
   },
   {
     "id": "0701160518",
@@ -480,7 +509,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.gandau.gov.tw/%e5%b0%b1%e9%86%ab%e6%9c%8d%e5%8b%99/%e5%b0%b1%e9%86%ab%e9%a0%88%e7%9f%a5/%e6%8e%9b%e8%99%9f%e9%a0%88%e7%9f%a5/"
   },
   {
     "id": "1301170017",
@@ -489,13 +519,14 @@
     "district": "信義區",
     "address": "臺北市信義區吳興街２５2號、250號",
     "phone": "02-2737-2181",
-    "website": "",
+    "website": "https://www.tmuh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.tmuh.org.tw/service/regist"
   },
   {
     "id": "2101170050",
@@ -507,7 +538,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "0401180014",
@@ -531,13 +563,14 @@
     "district": "中正區",
     "address": "臺北市中正區福州街14號",
     "phone": "02-2395-6755",
-    "website": "",
+    "website": "http://www.postal.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://webreg.postal.com.tw/post.php"
   },
   {
     "id": "2101180038",
@@ -549,7 +582,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "0401180023",
@@ -558,13 +592,14 @@
     "district": "中正區",
     "address": "臺北市中正區中山南路8號",
     "phone": "2312-3456",
-    "website": "",
+    "website": "https://www.ntuh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntuh.gov.tw/WebReg/WebReg/BranchIndex?vHospCode=CH"
   },
   {
     "id": "1401190011",
@@ -602,13 +637,14 @@
     "district": "萬華區",
     "address": "臺北市萬華區西園路二段266、268、270、272、276號、185、187、189號",
     "phone": "02-2332-9888",
-    "website": "",
+    "website": "http://www.westgarden.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.westgarden.com.tw/timetable/"
   },
   {
     "id": "0401190010",
@@ -617,13 +653,14 @@
     "district": "萬華區",
     "address": "臺北市萬華區康定路３７號、臺北市萬華區內江街87號、臺北市萬華區內江街87號、臺北市萬華區內江街89號 (文教大樓1樓及供應樓1至2樓)",
     "phone": "02-2371-7101",
-    "website": "",
+    "website": "https://www.bh.ntuh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntuh.gov.tw/WebReg/WebReg/BranchIndex?vHospCode=T2"
   },
   {
     "id": "2101191068",
@@ -635,7 +672,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "2101200017",
@@ -647,7 +685,8 @@
     "website": "https://tpech.gov.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.tpech.gov.tw/RegOnline1_1.aspx?ZCode=G"
   },
   {
     "id": "1301200010",
@@ -662,7 +701,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://wwww.wanfang.gov.tw/reg/register_ec_cload.aspx"
   },
   {
     "id": "1501201020",
@@ -671,13 +711,14 @@
     "district": "文山區",
     "address": "臺北市文山區羅斯福路六段280號、文山區育英街2巷18號、文山區羅斯福路六段276巷1號1樓、文山區萬慶街18號1樓。",
     "phone": "02-2933-1010",
-    "website": "",
+    "website": "http://www.jmh.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://60.251.57.13:8080/Appointment/Choose?companiesCode=1&comp=1"
   },
   {
     "id": "1336010015",
@@ -686,11 +727,12 @@
     "district": "豐原區",
     "address": "臺中市豐原區中正路199號",
     "phone": "04-2522-2538",
-    "website": "",
+    "website": "https://www.cmuh.cmu.edu.tw/",
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.cmuh.cmu.edu.tw/BrandHome/PageIndex/57"
   },
   {
     "id": "1503010045",
@@ -796,7 +838,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://nreg.fyh.mohw.gov.tw/OReg/RegisterPage?viewparam=sect"
   },
   {
     "id": "1436020013",
@@ -805,13 +848,14 @@
     "district": "東勢區",
     "address": "臺中市東勢區豐勢路２９７號",
     "phone": "04-2577-1919",
-    "website": "",
+    "website": "http://www.fh.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.fh.org.tw/index.php?option=com_content&view=section&id=7&Itemid=70"
   },
   {
     "id": "1503030065",
@@ -833,13 +877,14 @@
     "district": "大甲區",
     "address": "臺中市大甲區八德街2號",
     "phone": "04-2686-2288",
-    "website": "",
+    "website": "http://www.leehospital.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.leehospital.com.tw/reg-c/main.htm"
   },
   {
     "id": "1503030010",
@@ -848,10 +893,11 @@
     "district": "大甲區",
     "address": "臺中市大甲區光明路6號",
     "phone": "04-2686-2328",
-    "website": "",
+    "website": "http://www.leehospital.com.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.leehospital.com.tw/reg-c/main.htm"
   },
   {
     "id": "1536040553",
@@ -886,13 +932,14 @@
     "district": "沙鹿區",
     "address": "臺中市沙鹿區沙田路117號（含大同街5-2號）",
     "phone": "04-2662-5111",
-    "website": "",
+    "website": "https://www.ktgh.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://www.ktgh.com.tw/Reg_Index.asp?CatID=19&ModuleType=Y"
   },
   {
     "id": "1536060037",
@@ -915,13 +962,14 @@
     "district": "梧棲區",
     "address": "臺中市梧棲區臺灣大道八段699號",
     "phone": "04-2658-1919",
-    "website": "",
+    "website": "https://www.sltung.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://rg.sltung.com.tw/index.htm"
   },
   {
     "id": "1536061114",
@@ -942,13 +990,14 @@
     "district": "潭子區",
     "address": "臺中市潭子區豐興路一段66、88號",
     "phone": "04-3606-0666",
-    "website": "",
+    "website": "https://taichung.tzuchi.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://app.tzuchi.com.tw/tchw/opdreg/SecList_TC.aspx"
   },
   {
     "id": "1536100081",
@@ -957,13 +1006,14 @@
     "district": "大雅區",
     "address": "臺中市大雅區三和里雅潭路四段80號",
     "phone": "04-2560-5600",
-    "website": "",
+    "website": "https://www.ching-chyuan.com.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://webreg.ching-chyuan.com.tw:81/OReg/RegisterPage?viewparam=sect"
   },
   {
     "id": "1536120010",
@@ -972,7 +1022,7 @@
     "district": "石岡區",
     "address": "臺中市石岡區金星里石岡街下坑巷四十一之二號",
     "phone": "04-2572-1694",
-    "website": "",
+    "website": "http://www.chinghaih.com/",
     "services": [
       "門診",
       "精神科"
@@ -985,11 +1035,12 @@
     "district": "烏日區",
     "address": "臺中市烏日區光明路四一九號",
     "phone": "04-2337-6232",
-    "website": "",
+    "website": "http://www.wjcch.com.tw/",
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.wjcch.com.tw/treat/treat011"
   },
   {
     "id": "0903150014",
@@ -998,13 +1049,14 @@
     "district": "烏日區",
     "address": "臺中市烏日區榮和路168號",
     "phone": "04-2338-8766",
-    "website": "",
+    "website": "https://wlshosp.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://booking.wlshosp.org.tw/OReg/RegisterPage?viewparam=sect"
   },
   {
     "id": "1303180011",
@@ -1013,13 +1065,14 @@
     "district": "霧峰區",
     "address": "臺中市霧峰區福新路222號",
     "phone": "04-3706-1668",
-    "website": "",
+    "website": "http://www.auh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.auh.org.tw/OnlineAppointment/AppointmentByDivision"
   },
   {
     "id": "1536181139",
@@ -1028,11 +1081,12 @@
     "district": "霧峰區",
     "address": "臺中市霧峰區中正路718號",
     "phone": "04-2339-0000",
-    "website": "",
+    "website": "http://www.wfcc.com.tw/",
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.wfcc.com.tw/reservation"
   },
   {
     "id": "1503190020",
@@ -1041,13 +1095,14 @@
     "district": "太平區",
     "address": "臺中市太平區永平路1段9號",
     "phone": "",
-    "website": "",
+    "website": "http://www.khca.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.khca.com.tw/register.php#register"
   },
   {
     "id": "1536190076",
@@ -1071,7 +1126,7 @@
     "district": "太平區",
     "address": "臺中市太平區中山路二段３４８號",
     "phone": "04-2393-4191",
-    "website": "",
+    "website": "https://803.mnd.gov.tw/",
     "services": [
       "門診",
       "住院",
@@ -1099,13 +1154,14 @@
     "district": "大里區",
     "address": "臺中市大里區成功路55號",
     "phone": "04-2492-2000",
-    "website": "",
+    "website": "http://www.wfcc.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.wfcc.com.tw/reservation"
   },
   {
     "id": "1536200022",
@@ -1141,13 +1197,14 @@
     "district": "大里區",
     "address": "臺中市大里區東榮路４８３號",
     "phone": "04-2481-9900",
-    "website": "",
+    "website": "https://www.jah.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.jah.org.tw/JCHReg/Register/J"
   },
   {
     "id": "1117010019",
@@ -1183,7 +1240,7 @@
     "district": "中區",
     "address": "臺中市中區平等街139號",
     "phone": "04-2463-2000",
-    "website": "",
+    "website": "https://www.ccgh.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -1198,7 +1255,7 @@
     "district": "東區",
     "address": "臺中市東區進化路二○三號",
     "phone": "04-2360-2000",
-    "website": "",
+    "website": "http://www.tahsda.org.tw/",
     "services": [
       "門診",
       "住院"
@@ -1211,12 +1268,13 @@
     "district": "東區",
     "address": "臺中市東區自由路三段296號",
     "phone": "04-2212-1058",
-    "website": "",
+    "website": "https://www.cmuh.cmu.edu.tw/",
     "services": [
       "門診",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.cmuh.cmu.edu.tw/BrandHome/PageIndex/57"
   },
   {
     "id": "1517020040",
@@ -1225,12 +1283,13 @@
     "district": "東區",
     "address": "臺中市東區振興路439之2號、439之3號及441號",
     "phone": "04-2213-9966",
-    "website": "",
+    "website": "https://www.ts-h.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://reg.ts-h.com.tw/"
   },
   {
     "id": "0117030010",
@@ -1245,7 +1304,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www03.taic.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "1417030017",
@@ -1295,11 +1355,12 @@
     "district": "南區",
     "address": "臺中市南區復興路二段38-13號、南平路31-2號1、2、3樓",
     "phone": "04-2262-3123",
-    "website": "",
+    "website": "https://www.country.org.tw/",
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.country.org.tw/%E5%B0%B1%E9%86%AB%E6%8C%87%E5%8D%97/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F"
   },
   {
     "id": "1317040039",
@@ -1308,13 +1369,14 @@
     "district": "南區",
     "address": "臺中市南區復興路2段11號",
     "phone": "",
-    "website": "",
+    "website": "http://www.csh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://sysint.csh.org.tw/Register/CSHRegister.aspx"
   },
   {
     "id": "1317040011",
@@ -1323,13 +1385,14 @@
     "district": "南區",
     "address": "臺中市南區建國北路一段一一○號",
     "phone": "04-2473-9595",
-    "website": "",
+    "website": "http://www.csh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://sysint.csh.org.tw/Register/CSHRegister.aspx"
   },
   {
     "id": "1303260014",
@@ -1338,13 +1401,14 @@
     "district": "北區",
     "address": "臺中市北區學士路95號(1樓至7樓)、學士路2號(1樓部分空間)、育德路1號(8樓部分空間)",
     "phone": "04-2205-2121",
-    "website": "",
+    "website": "http://www.cmuch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.cmuch.org.tw/OnlineAppointment/AppointmentByDivision?flag=first"
   },
   {
     "id": "1317050017",
@@ -1353,13 +1417,14 @@
     "district": "北區",
     "address": "臺中市北區育德路二號",
     "phone": "04-2205-2121",
-    "website": "",
+    "website": "https://www.cmuh.cmu.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.cmuh.cmu.edu.tw/BrandHome/PageIndex/57"
   },
   {
     "id": "0917050027",
@@ -1381,7 +1446,7 @@
     "district": "北區",
     "address": "臺中市北區忠明路500號",
     "phone": "04-2203-7320",
-    "website": "",
+    "website": "https://803.mnd.gov.tw/",
     "services": [
       "門診",
       "住院",
@@ -1420,7 +1485,7 @@
     "district": "北區",
     "address": "臺中市北區雙十路二段29號",
     "phone": "04-2226-8990",
-    "website": "",
+    "website": "http://tassh.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -1434,13 +1499,14 @@
     "district": "西屯區",
     "address": "臺中市西屯區臺灣大道4段966號",
     "phone": "04-2463-2000",
-    "website": "",
+    "website": "https://ck.ccgh.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.ccgh.com.tw/html/webap.aspx?pagetype=3&otherkind=1&pageno=0"
   },
   {
     "id": "1503270014",
@@ -1463,13 +1529,14 @@
     "district": "西屯區",
     "address": "臺中市西屯區臺灣大道4段1650號",
     "phone": "04-2359-2525",
-    "website": "",
+    "website": "https://www.vhwc.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.vhwc.gov.tw/PageView/ContentView?WebMenuID=6154850d-0cad-44cd-93e4-4c0b10428dcb"
   },
   {
     "id": "0917070029",
@@ -1478,13 +1545,14 @@
     "district": "南屯區",
     "address": "臺中市南屯區惠中路3段36號",
     "phone": "04-2258-6688",
-    "website": "",
+    "website": "http://www.lshosp.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.lshosp.com.tw/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F/"
   },
   {
     "id": "1103280012",
@@ -1526,7 +1594,8 @@
       "門診",
       "住院",
       "癌症中心"
-    ]
+    ],
+    "appointmentUrl": "http://ivftaiwan.bossinfo.com.tw/Appointment/Schedule?companiesCode=1503290025&comp=1"
   },
   {
     "id": "1517081141",
@@ -1587,7 +1656,7 @@
     "district": "新營區",
     "address": "臺南市新營區隋唐街228號",
     "phone": "06-6592592,6592345",
-    "website": "",
+    "website": "http://www.evernew-hospital.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -1608,7 +1677,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://newreg.syh.mohw.gov.tw/oinetreg/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "1541011162",
@@ -1630,13 +1700,14 @@
     "district": "麻豆區",
     "address": "臺南市麻豆區麻佳路一段207號",
     "phone": "06-570-2228",
-    "website": "",
+    "website": "https://www.sinlau.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://mt01.sinlau.org.tw/matou/rt01/"
   },
   {
     "id": "1105050012",
@@ -1645,13 +1716,14 @@
     "district": "佳里區",
     "address": "臺南市佳里區佳興里佳里興606號",
     "phone": "06-726-3333",
-    "website": "",
+    "website": "http://www.chimei.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://medhub.chimei.org.tw/webopd/jl/scheSelDoc"
   },
   {
     "id": "1441060010",
@@ -1679,7 +1751,8 @@
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://tnweb.tnhosp.mohw.gov.tw/OINetReg_shin/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "1541070045",
@@ -1688,7 +1761,7 @@
     "district": "善化區",
     "address": "臺南市善化區三民路1-35號",
     "phone": "06-581-8868",
-    "website": "",
+    "website": "https://www.facebook.com/",
     "services": [
       "門診"
     ]
@@ -1700,13 +1773,14 @@
     "district": "柳營區",
     "address": "臺南市柳營區太康里201號",
     "phone": "06-622-6999",
-    "website": "",
+    "website": "https://www.chimei.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://medhub.chimei.org.tw/webopd/jl/scheSelDoc"
   },
   {
     "id": "0905290020",
@@ -1739,13 +1813,14 @@
     "district": "永康區",
     "address": "臺南市永康區復興路427號",
     "phone": "06-312-5101",
-    "website": "",
+    "website": "https://www.vhyk.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://reg.vhyk.gov.tw/register/"
   },
   {
     "id": "1505310011",
@@ -1779,13 +1854,14 @@
     "district": "永康區",
     "address": "臺南市永康區中華路901號",
     "phone": "06-281-2811",
-    "website": "",
+    "website": "http://www.chimei.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://medhub.chimei.org.tw/webopd/yk/scheSelDoc"
   },
   {
     "id": "0905320023",
@@ -1794,13 +1870,14 @@
     "district": "東區",
     "address": "臺南市東區崇德路670號",
     "phone": "06-260-9926",
-    "website": "",
+    "website": "https://www.tmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.tmh.org.tw/TMH2016/Register.aspx?Kind=2"
   },
   {
     "id": "1121010018",
@@ -1809,13 +1886,14 @@
     "district": "東區",
     "address": "臺南市東區東門路1段57號",
     "phone": "06-274-8316",
-    "website": "",
+    "website": "http://www.sinlau.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://rt01.sinlau.org.tw/sinlau/rt01/"
   },
   {
     "id": "0905320014",
@@ -1824,10 +1902,11 @@
     "district": "東區",
     "address": "臺南市東區北門路1段10號及北門路1段30巷16號",
     "phone": "06-221-3111",
-    "website": "",
+    "website": "http://www.rah.com.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.rah.com.tw/page/about/index.aspx?kind=111"
   },
   {
     "id": "1505340019",
@@ -1893,7 +1972,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://nreg.tnhosp.mohw.gov.tw/OReg/RegisterPage?viewparam=sect"
   },
   {
     "id": "1521031104",
@@ -1902,13 +1982,14 @@
     "district": "中西區",
     "address": "臺南市中西區民生路2段6.8.10.12.14.18.20.22.23.24.25.27.44號及40、42號1、2樓",
     "phone": "06-222-1111",
-    "website": "",
+    "website": "https://www.kgh.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.kgh.com.tw/Registered/Internet"
   },
   {
     "id": "1521051160",
@@ -1969,7 +2050,7 @@
     "district": "北區",
     "address": "臺南市北區中華北路二段101號1、2、3樓",
     "phone": "06-350-5000",
-    "website": "",
+    "website": "http://www.cty-obs.com.tw/",
     "services": [
       "門診"
     ]
@@ -1981,13 +2062,14 @@
     "district": "北區",
     "address": "臺南市北區勝利路１３８號",
     "phone": "06-235-3535",
-    "website": "",
+    "website": "https://www.ntuh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://service.hosp.ncku.edu.tw/tandem/"
   },
   {
     "id": "1305370013",
@@ -2002,7 +2084,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://www.tmanh.org.tw/Service/OnlineAppointment"
   },
   {
     "id": "1542010141",
@@ -2036,7 +2119,7 @@
     "district": "鳳山區",
     "address": "高雄市鳳山區光遠路171-2號",
     "phone": "07-746-3762",
-    "website": "",
+    "website": "http://www.da-dong.com.tw/",
     "services": [
       "門診",
       "骨科"
@@ -2074,13 +2157,14 @@
     "district": "鳳山區",
     "address": "高雄市鳳山區五甲二路385號、387號、389號、391號B1-9樓、470號1樓",
     "phone": "07-761-3111",
-    "website": "",
+    "website": "https://www.smh.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://gcreg.smh.org.tw/register/Query/C"
   },
   {
     "id": "1507010023",
@@ -2101,13 +2185,14 @@
     "district": "鳳山區",
     "address": "高雄市鳳山區經武路42號、42-1號",
     "phone": "07-741-8151",
-    "website": "",
+    "website": "https://cghdpt.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register/T"
   },
   {
     "id": "0942020019",
@@ -2131,13 +2216,14 @@
     "district": "岡山區",
     "address": "高雄市岡山區捷安路8號地下3樓至2樓、6樓及10樓",
     "phone": "07-626-1000",
-    "website": "",
+    "website": "https://www.kmugh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.kmugh.org.tw/Web/WebRegistration/Registration/chooseDept?lang=tw"
   },
   {
     "id": "1542020058",
@@ -2159,13 +2245,14 @@
     "district": "岡山區",
     "address": "高雄市岡山區岡山路380之１號、378號、376號B1-7樓",
     "phone": "07-621-9156",
-    "website": "",
+    "website": "http://www.khca.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.khca.com.tw/register.php#register"
   },
   {
     "id": "0542020011",
@@ -2247,7 +2334,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://newnetreg.chis.mohw.gov.tw/OiNetReg/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "1542040050",
@@ -2283,13 +2371,14 @@
     "district": "林園區",
     "address": "高雄市林園區東林西路358號1樓-4樓、360號地下1樓-5樓、362號地下1樓-7樓、364巷10號地下1樓-6樓、364巷10之1號1樓-3樓、364巷10之2號1樓-4樓、399號1樓-4樓及407巷7號1樓-3樓",
     "phone": "07-643-7901",
-    "website": "",
+    "website": "http://www.chien-yu.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://60.249.190.171:82/RegPhoneWeb/hashospital.aspx#page-reg"
   },
   {
     "id": "1542061077",
@@ -2310,7 +2399,7 @@
     "district": "大寮區",
     "address": "高雄市大寮區鳳屏一路509號",
     "phone": "07-703-0315",
-    "website": "",
+    "website": "http://www.khja.org.tw/",
     "services": [
       "門診",
       "精神科"
@@ -2323,7 +2412,7 @@
     "district": "大寮區",
     "address": "高雄市大寮區鳳林四路192號",
     "phone": "07-783-8843",
-    "website": "",
+    "website": "http://www.rexsun.idv.tw/",
     "services": [
       "門診"
     ]
@@ -2335,13 +2424,14 @@
     "district": "鳥松區",
     "address": "高雄市鳥松區大埤路１２３號",
     "phone": "07-731-7123",
-    "website": "",
+    "website": "https://www.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register_WEEK/8"
   },
   {
     "id": "1542110020",
@@ -2362,13 +2452,14 @@
     "district": "燕巢區",
     "address": "高雄市燕巢區角宿里義大路1號",
     "phone": "07-615-0011",
-    "website": "",
+    "website": "https://www.edah.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www5.edah.org.tw/LoginRegister.aspx?Hospital=EDAH"
   },
   {
     "id": "1107120017",
@@ -2377,13 +2468,14 @@
     "district": "燕巢區",
     "address": "高雄市燕巢區角宿里義大路21號B2-10F",
     "phone": "07-615-0022",
-    "website": "",
+    "website": "https://edhg.edah.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www5.edah.org.tw/LoginRegister.aspx?Hospital=EDCH"
   },
   {
     "id": "0907120012",
@@ -2419,7 +2511,7 @@
     "district": "路竹區",
     "address": "高雄市路竹區中山路６２７號地下2層至地上4層",
     "phone": "07-697-5903",
-    "website": "",
+    "website": "https://www.ksh.url.tw/",
     "services": [
       "門診",
       "復健"
@@ -2471,13 +2563,14 @@
     "district": "鼓山區",
     "address": "高雄市鼓山區中華一路976號",
     "phone": "07-555-2565",
-    "website": "",
+    "website": "https://www.kmuh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.kmuh.gov.tw/RSMKMUH/onlineReg"
   },
   {
     "id": "1502031095",
@@ -2499,13 +2592,14 @@
     "district": "左營區",
     "address": "高雄市左營區博愛二路100號",
     "phone": "07-556-2217",
-    "website": "",
+    "website": "https://www.parkonehealth.com/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.parkonehealth.tw/#/clinica"
   },
   {
     "id": "1502031102",
@@ -2514,10 +2608,11 @@
     "district": "左營區",
     "address": "高雄市左營區博愛二路350號地下1樓至地上1-5樓、340號1樓、326號1樓",
     "phone": "07-550-8888",
-    "website": "",
+    "website": "http://www.pojen.com.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://220.130.236.91:8080/webregd/faces/regHelp.jsp#"
   },
   {
     "id": "1507300068",
@@ -2526,10 +2621,11 @@
     "district": "左營區",
     "address": "高雄市左營區華夏路609號地下1層至地上6層",
     "phone": "07-348-0088",
-    "website": "",
+    "website": "https://jun-an-hospital.com.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://jun-an-hospital.com.tw/submain.php?nav=15&tId=19"
   },
   {
     "id": "0602030026",
@@ -2538,13 +2634,14 @@
     "district": "左營區",
     "address": "高雄市左營區大中一路３８６號",
     "phone": "07-342-2121",
-    "website": "",
+    "website": "https://www.vghks.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.vghks.gov.tw/RSMKS/onlineReg"
   },
   {
     "id": "0502030015",
@@ -2617,13 +2714,14 @@
     "district": "楠梓區",
     "address": "高雄市楠梓區楠陽路１３６號朝明路１３０巷７弄１號１-５樓",
     "phone": "07-351-7166",
-    "website": "",
+    "website": "https://www.jiannren.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://reg.jiannren.org.tw/JRNetReg/KReg/DivList.aspx"
   },
   {
     "id": "1502040076",
@@ -2645,13 +2743,14 @@
     "district": "楠梓區",
     "address": "高雄市楠梓區軍校路930號B1-11F",
     "phone": "07-364-3388",
-    "website": "",
+    "website": "http://www.ycuh.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://ycuh.com.tw:94/Appointment/frmAppointment_Divisions.aspx"
   },
   {
     "id": "1507310037",
@@ -2684,13 +2783,14 @@
     "district": "三民區",
     "address": "高雄市三民區十全一路100號及新興區中山一路36號",
     "phone": "07-312-1101",
-    "website": "",
+    "website": "https://www.kmuh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.kmuh.org.tw/KMUHInterWeb/InterWeb/InnerPage/1001124050"
   },
   {
     "id": "0907320012",
@@ -2715,7 +2815,8 @@
     "website": "",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.taianhospital.com.tw/#/clinicd/05"
   },
   {
     "id": "1502050045",
@@ -2724,10 +2825,11 @@
     "district": "三民區",
     "address": "高雄市三民區九如二路１８號地下1樓至6樓",
     "phone": "07-321-0981",
-    "website": "",
+    "website": "http://www.derchen.com.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.derchen.com.tw/Booking.asp"
   },
   {
     "id": "1507320015",
@@ -2775,13 +2877,14 @@
     "district": "三民區",
     "address": "高雄市三民區大昌一路305號地下3樓至地上10樓、307號地上1樓、309號地下1樓至地上3樓、309號地上6樓至地上10樓及311號地下1樓至地上1樓",
     "phone": "5599123",
-    "website": "",
+    "website": "https://www.edah.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www5.edah.org.tw/LoginRegister.aspx?Hospital=EDDH"
   },
   {
     "id": "1507330011",
@@ -2915,7 +3018,8 @@
     "website": "",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://oreg.cshospital.com.tw/OReg/RegisterPage?viewparam=sect"
   },
   {
     "id": "1507340044",
@@ -2965,13 +3069,14 @@
     "district": "苓雅區",
     "address": "高雄市苓雅區成功一路156號1-3樓及162號B1-10樓.四維四路136號B4-12樓.166號B2-13樓.永昌街49號1-6樓",
     "phone": "07-335-1121",
-    "website": "",
+    "website": "http://www.yuanhosp.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://register.yuanhosp.com.tw/register3/webSchedule.aspx?corpid=0001"
   },
   {
     "id": "0502080015",
@@ -3001,7 +3106,8 @@
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://www.kmsh.gov.tw/trenew/StepA1.aspx"
   },
   {
     "id": "0102080026",
@@ -3014,7 +3120,8 @@
     "services": [
       "門診",
       "精神科"
-    ]
+    ],
+    "appointmentUrl": "https://nwebreg.ksph.gov.tw/iRegSys/#/clinicc"
   },
   {
     "id": "0807350018",
@@ -3036,13 +3143,14 @@
     "district": "苓雅區",
     "address": "高雄市苓雅區建國一路352號",
     "phone": "07-223-8153",
-    "website": "",
+    "website": "https://web.joseph.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://newweb.joseph.org.tw/"
   },
   {
     "id": "1202080029",
@@ -3055,7 +3163,8 @@
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.kch.org.tw/opd-rc.php?cno=00"
   },
   {
     "id": "1502081175",
@@ -3064,7 +3173,7 @@
     "district": "苓雅區",
     "address": "高雄市苓雅區成功一路１３７號1-6樓",
     "phone": "07-333-5131",
-    "website": "",
+    "website": "http://www.chiuhospital.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -3078,7 +3187,7 @@
     "district": "前鎮區",
     "address": "高雄市前鎮區民權二路４３０號",
     "phone": "07-331-9611",
-    "website": "",
+    "website": "http://www.drwuhospital.com.tw/",
     "services": [
       "門診"
     ]
@@ -3130,13 +3239,14 @@
     "district": "小港區",
     "address": "高雄市小港區學府路111號",
     "phone": "07-801-7856",
-    "website": "",
+    "website": "https://www.tsmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.tsmh.org.tw/sites/web_dg/show_web_page.php?edsno=970"
   },
   {
     "id": "1102110011",
@@ -3151,7 +3261,8 @@
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.kmsh.org.tw/Web/wwwKMHK/online/Default.asp"
   },
   {
     "id": "1502111089",
@@ -3198,13 +3309,14 @@
     "district": "暖暖區",
     "address": "基隆市暖暖區源遠路２９號",
     "phone": "02-2457-9101",
-    "website": "",
+    "website": "http://twmgh.com/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://61.221.104.116/opdregweb/Menu.aspx"
   },
   {
     "id": "0511040010",
@@ -3254,13 +3366,14 @@
     "district": "安樂區",
     "address": "基隆市安樂區麥金路222號(行政院區麥金路201號)",
     "phone": "02-2431-3131",
-    "website": "",
+    "website": "https://www.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register/E"
   },
   {
     "id": "0211070012",
@@ -3290,7 +3403,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://netreg.kln.mohw.gov.tw/"
   },
   {
     "id": "1112010528",
@@ -3299,13 +3413,14 @@
     "district": "東區",
     "address": "新竹市東區福德里中華路二段六七八號及六七八號之一",
     "phone": "03-527-8999",
-    "website": "",
+    "website": "https://hsinchu.cgh.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://reg.cgh.org.tw/tw/reg/main.jsp"
   },
   {
     "id": "1112010519",
@@ -3314,13 +3429,14 @@
     "district": "東區",
     "address": "新竹市東區光復里光復路二段690號",
     "phone": "03-611-9595",
-    "website": "",
+    "website": "https://www.hc.mmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.hc.mmh.org.tw/find_division.php"
   },
   {
     "id": "1112010537",
@@ -3356,13 +3472,14 @@
     "district": "東區",
     "address": "新竹市東區成功里林森路20號",
     "phone": "03-526-1122",
-    "website": "",
+    "website": "https://www.nanmen.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://reg.nanmen.com.tw:8080/NanWeb/ym/reg/RegDoctor.jsp"
   },
   {
     "id": "1412040022",
@@ -3385,13 +3502,14 @@
     "district": "北區",
     "address": "新竹市北區金華里經國路一段442巷25號",
     "phone": "03-532-6151",
-    "website": "",
+    "website": "https://www.hch.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntuh.gov.tw/WebReg/WebReg/BranchIndex?vHospCode=T4"
   },
   {
     "id": "0512040014",
@@ -3400,7 +3518,7 @@
     "district": "北區",
     "address": "新竹市北區武陵路3號",
     "phone": "03-534-8181",
-    "website": "",
+    "website": "https://813.mnd.gov.tw/",
     "services": [
       "門診",
       "住院",
@@ -3439,7 +3557,7 @@
     "district": "東區",
     "address": "嘉義市東區吳鳳北路252號",
     "phone": "05-228-4567",
-    "website": "",
+    "website": "http://www.ymhospital.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -3454,13 +3572,14 @@
     "district": "東區",
     "address": "嘉義市東區短竹里大雅路二段565號",
     "phone": "05-275-6000",
-    "website": "",
+    "website": "http://www.stm.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://flw.stm.org.tw/reg/"
   },
   {
     "id": "1522011080",
@@ -3481,13 +3600,14 @@
     "district": "東區",
     "address": "嘉義市東區中庄里忠孝路539號；東區後湖里保建街100號；東區頂庄里忠孝路642號；中庄里忠孝路539-3號；中庄里忠孝路539-1號3~7樓",
     "phone": "05-276-5041",
-    "website": "",
+    "website": "https://www.cych.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www2.cych.org.tw/WebToNewRegister/opdregister.aspx"
   },
   {
     "id": "0922020022",
@@ -3496,13 +3616,14 @@
     "district": "西區",
     "address": "嘉義市西區新榮路339、339-1號",
     "phone": "2229191",
-    "website": "",
+    "website": "http://www.cycsh.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://thcloudsrv.these.com.tw/opdregweb/Menu.aspx?hospitalID=0922020022"
   },
   {
     "id": "1522021264",
@@ -3548,13 +3669,14 @@
     "district": "西區",
     "address": "嘉義市西區劉厝里世賢路二段６００號",
     "phone": "05-235-9630",
-    "website": "",
+    "website": "https://www.vhcy.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://tre.vhcy.gov.tw/register/"
   },
   {
     "id": "0122020517",
@@ -3569,7 +3691,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://chyiwww001.chyi.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "0922020031",
@@ -3608,7 +3731,8 @@
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://60.250.82.38/NetReg/KReg/Default.aspx"
   },
   {
     "id": "1531010279",
@@ -3617,13 +3741,14 @@
     "district": "板橋區",
     "address": "新北市板橋區忠孝路十五號",
     "phone": "02-2959-0707",
-    "website": "",
+    "website": "http://www.pcchh.com.tw/",
     "services": [
       "門診",
       "住院",
       "癌症中心",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://61.221.167.133/jmh/s/register/0"
   },
   {
     "id": "0931010025",
@@ -3645,13 +3770,14 @@
     "district": "板橋區",
     "address": "新北市板橋區文化路一段192之1號1樓、194號1至4樓、196號1至4樓、198號1至4樓、200號1至4樓、202號1至4樓、204號1至4樓",
     "phone": "2256-3584",
-    "website": "",
+    "website": "http://www.choninn.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://regsite.these.com.tw:8888/Menu.aspx"
   },
   {
     "id": "1531011310",
@@ -3664,7 +3790,8 @@
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://cathay-0ba294.webflow.io/"
   },
   {
     "id": "1131010011",
@@ -3673,13 +3800,14 @@
     "district": "板橋區",
     "address": "新北市板橋區南雅南路二段21號及高爾富路300號",
     "phone": "(02)",
-    "website": "",
+    "website": "https://www.femh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.femh.org.tw/webregs/fregister"
   },
   {
     "id": "1531010082",
@@ -3714,13 +3842,14 @@
     "district": "三重區",
     "address": "新北市三重區水漾路一段一五八號",
     "phone": "2978-8877",
-    "website": "",
+    "website": "https://www.hongren.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://www.hongren.com.tw/registered/"
   },
   {
     "id": "0131020016",
@@ -3735,7 +3864,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntch.ntpc.gov.tw:4443/OPDREGWEB/Menu.aspx"
   },
   {
     "id": "1531021183",
@@ -3770,13 +3900,14 @@
     "district": "永和區",
     "address": "新北市永和區中興街80號地下1樓至地上6樓及國光路123號地下3樓至地上11樓",
     "phone": "02-2928-6060",
-    "website": "",
+    "website": "http://www.cthyh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://hnetreg.cthyh.org.tw/new_CthWebReg/webreg/Reg/booking_main.aspx?order=register"
   },
   {
     "id": "1531040259",
@@ -3837,13 +3968,14 @@
     "district": "新店區",
     "address": "新北市新店區中正路362號",
     "phone": "02-22193391/02-22123066",
-    "website": "",
+    "website": "https://www.cth.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.cth.org.tw/CthWebReg/WebReg/booking_main.aspx?order=register&district=A"
   },
   {
     "id": "1531050077",
@@ -3907,13 +4039,14 @@
     "district": "新店區",
     "address": "新北市新店區建國路277號地上1、3、4樓及289號地下1至3樓至地上1至15樓",
     "phone": "02-6628-9779",
-    "website": "",
+    "website": "https://taipei.tzuchi.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://reg-prod.tzuchi-healthcare.org.tw/tchw/HIS5OpdReg/SecList_XD"
   },
   {
     "id": "1531061258",
@@ -3934,13 +4067,14 @@
     "district": "新莊區",
     "address": "新北市新莊區新樹路176號",
     "phone": "",
-    "website": "",
+    "website": "http://www.sthosp.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://61.222.1.99:8080/Appointment/DivisionDoctor?companiesCode=1&comp=1"
   },
   {
     "id": "0931060016",
@@ -3949,7 +4083,7 @@
     "district": "新莊區",
     "address": "新北市新莊區中正路395號、福海街24巷1號",
     "phone": "02-2201-7212",
-    "website": "",
+    "website": "http://www.srh.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -3970,7 +4104,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://nreg.tph.mohw.gov.tw/OReg/RegisterPage?viewparam=sect"
   },
   {
     "id": "1431060017",
@@ -4028,13 +4163,14 @@
     "district": "樹林區",
     "address": "新北市樹林區文化街9號(地下1、2樓及地上1樓至8樓)",
     "phone": "02-2683-4567",
-    "website": "",
+    "website": "http://www.rah.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.rah.com.tw/page/about/index.aspx?kind=111"
   },
   {
     "id": "1531091149",
@@ -4067,13 +4203,14 @@
     "district": "三峽區",
     "address": "新北市三峽區復興路399號、中山路198、258號",
     "phone": "02-2672-3456",
-    "website": "",
+    "website": "https://www.eck.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.eck.org.tw/registers/"
   },
   {
     "id": "1531101113",
@@ -4095,13 +4232,14 @@
     "district": "淡水區",
     "address": "新北市淡水區民生路四十五號、民權路47號B1~11樓",
     "phone": "02-809-4661",
-    "website": "",
+    "website": "https://www.mmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.mmh.org.tw/traditionregts_main.php"
   },
   {
     "id": "0931100015",
@@ -4123,13 +4261,14 @@
     "district": "汐止區",
     "address": "新北市汐止區建成路59巷2號地下4樓至地上12樓",
     "phone": "2648-2121",
-    "website": "",
+    "website": "https://sijhih.cgh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.cgh.org.tw/tw/reg/main.jsp"
   },
   {
     "id": "1531120038",
@@ -4138,7 +4277,7 @@
     "district": "瑞芳區",
     "address": "新北市瑞芳區一坑路71之2號",
     "phone": "2497-4101",
-    "website": "",
+    "website": "http://www.瑞芳礦工醫院.tw/",
     "services": [
       "門診",
       "骨科"
@@ -4180,13 +4319,14 @@
     "district": "土城區",
     "address": "新北市土城區金城路二段6號",
     "phone": "02-2263-0588",
-    "website": "",
+    "website": "https://www.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register/V"
   },
   {
     "id": "1531130105",
@@ -4221,13 +4361,14 @@
     "district": "泰山區",
     "address": "新北市泰山區貴子路69號(地下4層、地上1至13層、15層)",
     "phone": "02-8512-8888",
-    "website": "",
+    "website": "https://www.hospital.fju.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.hospital.fju.edu.tw/OPDSchedule"
   },
   {
     "id": "1531210019",
@@ -4236,7 +4377,7 @@
     "district": "三芝區",
     "address": "新北市三芝區興華里楓子林路四十二之五號、四十二之九號〈一至二樓〉",
     "phone": "02-637-1600",
-    "website": "",
+    "website": "http://www.taian.url.tw/",
     "services": [
       "門診",
       "精神科"
@@ -4249,13 +4390,14 @@
     "district": "金山區",
     "address": "新北市金山區五湖里玉爐路7號",
     "phone": "2498-9898",
-    "website": "",
+    "website": "https://www.js.ntuh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntuh.gov.tw/WebReg/WebReg/BranchIndex?vHospCode=T3"
   },
   {
     "id": "1532010120",
@@ -4264,12 +4406,13 @@
     "district": "桃園區",
     "address": "桃園市桃園區復興路195號、桃園市桃園區南海街7號",
     "phone": "03-332-5678",
-    "website": "",
+    "website": "http://www.taoshin.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.taoshin.com.tw/"
   },
   {
     "id": "1532011154",
@@ -4278,13 +4421,14 @@
     "district": "桃園區",
     "address": "桃園市桃園區經國路168號",
     "phone": "03-317-9599",
-    "website": "",
+    "website": "https://www.e-ms.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://netreg.e-ms.com.tw/netreg/Kreg/"
   },
   {
     "id": "1532011172",
@@ -4319,13 +4463,14 @@
     "district": "桃園區",
     "address": "桃園市桃園區成功路3段100號",
     "phone": "03-338-4889",
-    "website": "",
+    "website": "http://www.tyvh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://webreg.tyvh.gov.tw/register/"
   },
   {
     "id": "1532010013",
@@ -4353,7 +4498,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://tyghnetreg.tygh.mohw.gov.tw/OINetReg.WebRwd/Reg/Dept"
   },
   {
     "id": "1132010024",
@@ -4362,13 +4508,14 @@
     "district": "桃園區",
     "address": "桃園市桃園區建新街123號",
     "phone": "03-361-3141",
-    "website": "",
+    "website": "https://www.sph.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://rms.sph.org.tw/Department.aspx?dpt=S"
   },
   {
     "id": "1532021285",
@@ -4405,13 +4552,14 @@
     "district": "中壢區",
     "address": "桃園市中壢區環中東路150號",
     "phone": "03-463-1230",
-    "website": "",
+    "website": "http://www.egh.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://61.218.113.180:1230/WebReg/ym/reg/RegDiv.jsp;jsessionid=F02029DA24918E201100FD10598A7EEB"
   },
   {
     "id": "1532020215",
@@ -4445,10 +4593,11 @@
     "district": "中壢區",
     "address": "桃園市中壢區元化路223號",
     "phone": "03-461-8888",
-    "website": "",
+    "website": "https://www.hungchihospital.org.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://web.hch.org.tw/RegApp"
   },
   {
     "id": "0932020034",
@@ -4457,13 +4606,14 @@
     "district": "中壢區",
     "address": "桃園市中壢區復興路152號",
     "phone": "03-422-5180",
-    "website": "",
+    "website": "https://www.skmh.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://www.skmh.com.tw/guide.php?Key=8"
   },
   {
     "id": "0932020025",
@@ -4472,13 +4622,14 @@
     "district": "中壢區",
     "address": "桃園市中壢區延平路155號",
     "phone": "03-462-9292",
-    "website": "",
+    "website": "https://www.tcmg.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.tcmg.com.tw/index.php/main/schedule"
   },
   {
     "id": "1532021392",
@@ -4487,12 +4638,13 @@
     "district": "中壢區",
     "address": "桃園市中壢區中美路95號1-3樓(含1樓夾層)",
     "phone": "03-426-6222",
-    "website": "",
+    "website": "http://e-zm.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://web.ihis.com.tw/zhongmei/webreg.php"
   },
   {
     "id": "1532021365",
@@ -4506,7 +4658,8 @@
       "門診",
       "住院",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.tyhs.com.tw/new_web/content.aspx?menuID=S0023&id=2118"
   },
   {
     "id": "1532040066",
@@ -4515,13 +4668,14 @@
     "district": "楊梅區",
     "address": "桃園市楊梅區楊新北路三二一巷三０號",
     "phone": "03-485-5566",
-    "website": "",
+    "website": "http://www.yeezen.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "癌症中心"
-    ]
+    ],
+    "appointmentUrl": "http://mada.yeezen.com.tw/NetReg/KReg/DivList.aspx?Func=Reg"
   },
   {
     "id": "1532040039",
@@ -4530,7 +4684,7 @@
     "district": "楊梅區",
     "address": "桃園市楊梅區中山北路一段三五六號",
     "phone": "03-478-2350",
-    "website": "",
+    "website": "http://www.tcmg.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -4570,12 +4724,13 @@
     "district": "大園區",
     "address": "桃園市大園區華中街2號",
     "phone": "03-386-7521",
-    "website": "",
+    "website": "http://www.e-ms.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://61.219.168.157/ireg/default.aspx"
   },
   {
     "id": "1132071036",
@@ -4584,13 +4739,14 @@
     "district": "龜山區",
     "address": "桃園市龜山區舊路里頂湖路123號、123之1號",
     "phone": "03-319-6200",
-    "website": "",
+    "website": "https://www.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register/5"
   },
   {
     "id": "1132070011",
@@ -4599,13 +4755,14 @@
     "district": "龜山區",
     "address": "桃園市龜山區公西里復興街5號、5之7號及文化一路15號",
     "phone": "03-328-1200",
-    "website": "",
+    "website": "https://www.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register/3"
   },
   {
     "id": "1532070019",
@@ -4627,13 +4784,14 @@
     "district": "龍潭區",
     "address": "桃園市龍潭區中豐路168號",
     "phone": "03-479-4151",
-    "website": "",
+    "website": "https://www.e-ms.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "癌症中心"
-    ]
+    ],
+    "appointmentUrl": "http://netregmsl.e-ms.com.tw/netregmsl/"
   },
   {
     "id": "0532090029",
@@ -4642,13 +4800,14 @@
     "district": "龍潭區",
     "address": "桃園市龍潭區中興路168號",
     "phone": "03-262-3301",
-    "website": "",
+    "website": "https://api.infoqme.com/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://registration.aftygh.gov.tw/"
   },
   {
     "id": "1532101117",
@@ -4669,13 +4828,14 @@
     "district": "平鎮區",
     "address": "桃園市平鎮區廣泰路七七號、桃園市平鎮區延平路二段430巷115號",
     "phone": "03-494-1234",
-    "website": "",
+    "website": "http://www.taoshin.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://reg.taoshin.com.tw/"
   },
   {
     "id": "1532101091",
@@ -4684,7 +4844,7 @@
     "district": "平鎮區",
     "address": "桃園市平鎮區延平路二段五十六號",
     "phone": "03-492-9929",
-    "website": "",
+    "website": "http://www.ymhospital.com.tw/",
     "services": [
       "門診",
       "骨科"
@@ -4768,7 +4928,8 @@
       "門診",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntuh.gov.tw/WebReg/WebReg/RegShowBlock?vHospCode=T0"
   },
   {
     "id": "0633030010",
@@ -4777,13 +4938,14 @@
     "district": "竹東鎮",
     "address": "新竹縣竹東鎮中豐路一段81號",
     "phone": "03-596-2134",
-    "website": "",
+    "website": "http://www.vhct.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://webreg.vhct.gov.tw/register/"
   },
   {
     "id": "1533051072",
@@ -4792,12 +4954,13 @@
     "district": "竹北市",
     "address": "新竹縣竹北市博愛街331號",
     "phone": "03-555-2039",
-    "website": "",
+    "website": "http://www.sinren.com.tw/",
     "services": [
       "門診",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://www.sinren.com.tw/?page_id=5382"
   },
   {
     "id": "0433050018",
@@ -4806,13 +4969,14 @@
     "district": "竹北市",
     "address": "新竹縣竹北市生醫路一段2號",
     "phone": "03-667-7600",
-    "website": "",
+    "website": "https://www.hch.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntuh.gov.tw/WebReg/WebReg/BranchIndex?vHospCode=T7"
   },
   {
     "id": "0933050018",
@@ -4821,13 +4985,14 @@
     "district": "竹北市",
     "address": "新竹縣竹北市縣政二路69號(竹北市光明九路9-1號牙科.精神科門診部)",
     "phone": "03-552-7000",
-    "website": "",
+    "website": "https://www.tyh.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://w3.tyh.com.tw/MainWebRegister.aspx"
   },
   {
     "id": "1533051063",
@@ -4836,7 +5001,7 @@
     "district": "竹北市",
     "address": "新竹縣竹北市博愛街318巷6號",
     "phone": "03-555-7188",
-    "website": "",
+    "website": "http://www.daanhosp.com.tw/",
     "services": [
       "門診"
     ]
@@ -4848,13 +5013,14 @@
     "district": "竹北市",
     "address": "新竹縣竹北市興隆路一段199號",
     "phone": "03-558-0558",
-    "website": "",
+    "website": "http://www.cmu-hch.cmu.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://www.cmu-hch.cmu.edu.tw/OnlineAppointment/AppointmentByDivision?flag=first"
   },
   {
     "id": "1133060019",
@@ -4863,13 +5029,14 @@
     "district": "湖口鄉",
     "address": "新竹縣湖口鄉忠孝路２９號",
     "phone": "03-599-3500",
-    "website": "",
+    "website": "https://www.mercy.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.mercy1.org.tw/NetReg2/KReg/DivList.aspx"
   },
   {
     "id": "1134010022",
@@ -4878,7 +5045,7 @@
     "district": "宜蘭市",
     "address": "宜蘭縣宜蘭市中山路二段260號",
     "phone": "039-355-366",
-    "website": "",
+    "website": "http://www.jen-ai.org.tw/",
     "services": [
       "門診",
       "住院",
@@ -4892,13 +5059,14 @@
     "district": "宜蘭市",
     "address": "宜蘭縣宜蘭市校舍路169號",
     "phone": "039-325-192",
-    "website": "",
+    "website": "https://www.hosp.nycu.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.hosp.nycu.edu.tw/component/regist/?component=regist&view=page&layout=main"
   },
   {
     "id": "1134020028",
@@ -4907,13 +5075,14 @@
     "district": "羅東鎮",
     "address": "宜蘭縣羅東鎮中正南路160號",
     "phone": "039-544-106",
-    "website": "",
+    "website": "http://www.smh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://gcreg.smh.org.tw/register/Register/A"
   },
   {
     "id": "1134020019",
@@ -4922,13 +5091,14 @@
     "district": "羅東鎮",
     "address": "宜蘭縣羅東鎮南昌街81、83號站前南路61、63號",
     "phone": "039-543-131",
-    "website": "",
+    "website": "https://www.pohai.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.pohai.org.tw/register.php"
   },
   {
     "id": "0634030014",
@@ -4937,7 +5107,7 @@
     "district": "蘇澳鎮",
     "address": "宜蘭縣蘇澳鎮蘇濱路一段301號",
     "phone": "039-905-106",
-    "website": "",
+    "website": "https://www.savh.gov.tw/",
     "services": [
       "門診",
       "住院",
@@ -4952,13 +5122,14 @@
     "district": "礁溪鄉",
     "address": "宜蘭縣礁溪鄉礁溪路四段129號",
     "phone": "039-886-996",
-    "website": "",
+    "website": "https://www.smh.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://gcreg.smh.org.tw/register/Query/C"
   },
   {
     "id": "0934060027",
@@ -4980,13 +5151,14 @@
     "district": "員山鄉",
     "address": "宜蘭縣員山鄉榮光路386號",
     "phone": "039-222-141",
-    "website": "",
+    "website": "https://www.ysvh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ysvh.gov.tw/register/"
   },
   {
     "id": "1134070019",
@@ -5016,7 +5188,8 @@
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://59.125.81.201:3380/RegPhoneWeb/Default.aspx"
   },
   {
     "id": "1435010013",
@@ -5057,7 +5230,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://reg3.mil.mohw.gov.tw/"
   },
   {
     "id": "0935010021",
@@ -5079,13 +5253,14 @@
     "district": "苗栗市",
     "address": "苗栗縣苗栗市大同路133號1至6樓(81栗建管苗字第405號)、大同路133號1至4樓(77栗建管苗字第00414號)信義路23號地下層（一）及1至7樓(85栗建管苗字第287號)恭敬路36號地下第3層及1至9樓 (97栗商建苗使字第00112號)、信義街36號1至8樓（101）栗商建苗使字第00127號",
     "phone": "037-357-125",
-    "website": "",
+    "website": "https://www.dachien.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "癌症中心"
-    ]
+    ],
+    "appointmentUrl": "https://www.dachien.com.tw/register.php"
   },
   {
     "id": "0935020027",
@@ -5094,13 +5269,14 @@
     "district": "苑裡鎮",
     "address": "苗栗縣苑裡鎮和平路168號、苗栗縣苑裡鎮中華路137號",
     "phone": "862387",
-    "website": "",
+    "website": "http://www.leehospital.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.leehospital.com.tw/reg-a/main.htm"
   },
   {
     "id": "1535031041",
@@ -5109,7 +5285,7 @@
     "district": "通霄鎮",
     "address": "苗栗縣通霄鎮中山路88號",
     "phone": "037-759-999",
-    "website": "",
+    "website": "http://www.ts.ktgh.com.tw/",
     "services": [
       "門診",
       "復健",
@@ -5149,13 +5325,14 @@
     "district": "頭份市",
     "address": "苗栗縣頭份市信義路128號(信義院區: 信義路128號及仁愛路125號5樓、仁愛院區:仁愛路116號、東興院區:水源路417巷11號及13號)",
     "phone": "037-676-811",
-    "website": "",
+    "website": "https://www.weigong.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.weigong.org.tw/CMUHPagesDetail/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F/%E7%B6%B2%E8%B7%AF%E6%8E%9B%E8%99%9F"
   },
   {
     "id": "1535051178",
@@ -5164,12 +5341,13 @@
     "district": "頭份市",
     "address": "苗栗縣頭份市中華路1037、1039、1041、1043",
     "phone": "037-663-030",
-    "website": "",
+    "website": "https://www.chorng-guang.com.tw/",
     "services": [
       "門診",
       "住院",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://thcloudsrv.these.com.tw/OpdRegWeb/Menu.aspx?hospitalID=1535051178"
   },
   {
     "id": "1535081078",
@@ -5205,13 +5383,14 @@
     "district": "彰化市",
     "address": "彰化縣彰化市南校街135號、中華路176號、旭光路235、旭光路320號(地下2樓至地下5樓、地上12樓至地上14樓)",
     "phone": "04-723-8595",
-    "website": "",
+    "website": "https://www.cch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www1.cch.org.tw/opd/service-e.aspx?id=1700&Page=11&"
   },
   {
     "id": "1537010175",
@@ -5232,13 +5411,14 @@
     "district": "彰化市",
     "address": "彰化縣彰化市光南里13鄰旭光路320號(地下1樓至地上11樓)",
     "phone": "04-723-8595",
-    "website": "",
+    "website": "http://www2.cch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.cch.org.tw/opd/Service-e3.aspx"
   },
   {
     "id": "1537010219",
@@ -5259,10 +5439,11 @@
     "district": "彰化市",
     "address": "彰化縣彰化市光復路５３號",
     "phone": "04-722-9889",
-    "website": "",
+    "website": "http://www.leehospital.com.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.leehospital.com.tw/reg-c/main.htm"
   },
   {
     "id": "1537010040",
@@ -5284,13 +5465,14 @@
     "district": "彰化市",
     "address": "彰化縣彰化市南興里中山路一段３６６號",
     "phone": "04-711-3456",
-    "website": "",
+    "website": "https://hm.cch.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://opdhm.cch.org.tw/hmrg/opd/service-e.aspx"
   },
   {
     "id": "0937010019",
@@ -5299,13 +5481,14 @@
     "district": "彰化市",
     "address": "彰化縣彰化市南瑤里中山路1段536、542號(醫療大樓)、彰化縣彰化市南瑤里南平街61巷6號(健檢中心)、彰化縣彰化市南瑤里中山路1段530巷123號(醫研大樓)",
     "phone": "04-725-6166",
-    "website": "",
+    "website": "https://www.scmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.scmh.org.tw/Register.aspx?Kind=2"
   },
   {
     "id": "1137020511",
@@ -5314,13 +5497,14 @@
     "district": "鹿港鎮",
     "address": "彰化縣鹿港鎮鹿工路6號、6-2號",
     "phone": "04-781-3888",
-    "website": "",
+    "website": "https://www.cbshow.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.cbshow.org.tw/changbin/Register.aspx?Kind=2"
   },
   {
     "id": "1137020520",
@@ -5329,13 +5513,14 @@
     "district": "鹿港鎮",
     "address": "彰化縣鹿港鎮中正路480號",
     "phone": "04-777-9595",
-    "website": "",
+    "website": "http://www.rc.cch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://www.rc.cch.org.tw/rcrg/opd/Service-e.aspx"
   },
   {
     "id": "0937030012",
@@ -5344,13 +5529,14 @@
     "district": "和美鎮",
     "address": "彰化縣和美鎮和光路180號、和善路118號",
     "phone": "04-756-6995",
-    "website": "",
+    "website": "http://www.farlinhospital.com/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://thcloudsrv.these.com.tw/opdregweb/?hospitalID=0937030012"
   },
   {
     "id": "1537040066",
@@ -5359,11 +5545,12 @@
     "district": "北斗鎮",
     "address": "彰化縣北斗鎮中山路一段３１１號",
     "phone": "04-888-2517",
-    "website": "",
+    "website": "http://www.chohp.com.tw/",
     "services": [
       "門診",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.chohp.com.tw/?aid=301"
   },
   {
     "id": "0937050032",
@@ -5386,13 +5573,14 @@
     "district": "員林市",
     "address": "彰化縣員林市南平里莒光路456號",
     "phone": "04-838-1456",
-    "website": "",
+    "website": "http://www.bc.cch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://bc.cch.org.tw/BCRG/opd/service-e.aspx"
   },
   {
     "id": "1537051274",
@@ -5401,10 +5589,11 @@
     "district": "員林市",
     "address": "彰化縣員林市萬年路3段133號",
     "phone": "",
-    "website": "",
+    "website": "http://www.how-baby.com.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.how-baby.com.tw/registered.html"
   },
   {
     "id": "1537050071",
@@ -5453,13 +5642,14 @@
     "district": "員林市",
     "address": "彰化縣員林市中正路201號",
     "phone": "04-832-6161",
-    "website": "",
+    "website": "https://hospital-yuanrung.business.site/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://netreg.yuanrung.com.tw/NetReg/YrKreg/DivList.aspx"
   },
   {
     "id": "0937050024",
@@ -5468,12 +5658,13 @@
     "district": "員林市",
     "address": "彰化縣員林市惠來里惠來街89號",
     "phone": "",
-    "website": "",
+    "website": "https://www.hongren.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.hongren.com.tw/registered/"
   },
   {
     "id": "1537061065",
@@ -5495,12 +5686,13 @@
     "district": "田中鎮",
     "address": "彰化縣田中鎮中州路一段１５７號",
     "phone": "04-874-2108",
-    "website": "",
+    "website": "http://www.jhshow.org.tw/",
     "services": [
       "門診",
       "中醫",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://www.jhshow.org.tw/Register.aspx?Kind=2"
   },
   {
     "id": "1537071098",
@@ -5509,10 +5701,11 @@
     "district": "田中鎮",
     "address": "彰化縣田中鎮中路里中南路三段512號",
     "phone": "04-874-9747",
-    "website": "",
+    "website": "http://www.jhshow.org.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.jhshow.org.tw/Register.aspx?Kind=2"
   },
   {
     "id": "0937080012",
@@ -5547,13 +5740,14 @@
     "district": "二林鎮",
     "address": "彰化縣二林鎮南光里大成路一段558號、安和街40巷28號2樓",
     "phone": "04-896-0128",
-    "website": "",
+    "website": "https://erhlin.cch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://erhlin.cch.org.tw/20rg/opd/Service-e.aspx"
   },
   {
     "id": "1537100012",
@@ -5593,7 +5787,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://reg.chhw.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "1138010019",
@@ -5602,13 +5797,14 @@
     "district": "南投市",
     "address": "南投縣南投市中興路870號",
     "phone": "049-222-5535",
-    "website": "",
+    "website": "https://ny.cch.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://ny.cch.org.tw/nyrg/opd/Service-e.aspx"
   },
   {
     "id": "0138010027",
@@ -5623,7 +5819,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://netreg01.nant.mohw.gov.tw/OINetReg.WebRwd/Reg/Dept"
   },
   {
     "id": "1138020015",
@@ -5632,13 +5829,14 @@
     "district": "埔里鎮",
     "address": "南投縣埔里鎮鐵山路一號",
     "phone": "049-291-2151",
-    "website": "",
+    "website": "https://www.pch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.pch.org.tw/custom_71432.html"
   },
   {
     "id": "0638020014",
@@ -5647,13 +5845,14 @@
     "district": "埔里鎮",
     "address": "南投縣埔里鎮蜈蚣里榮光路1號",
     "phone": "049-299-8911",
-    "website": "",
+    "website": "https://www.pulivh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://registry.pulivh.gov.tw/register/?WebMenuID=1e1e46e8-588e-45da-82d7-9577ff05d452"
   },
   {
     "id": "1538031114",
@@ -5662,7 +5861,7 @@
     "district": "草屯鎮",
     "address": "南投縣草屯鎮平等街140號",
     "phone": "049-232-1188",
-    "website": "",
+    "website": "http://web.cmuh.cmu.edu.tw/",
     "services": [
       "門診",
       "中醫",
@@ -5676,13 +5875,14 @@
     "district": "草屯鎮",
     "address": "南投縣草屯鎮太平路一段200號",
     "phone": "049-235-8151",
-    "website": "",
+    "website": "http://www.yumin.com.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "http://web.yumin.com.tw/OReg/RegisterPage?viewparam=sect"
   },
   {
     "id": "1538030037",
@@ -5691,7 +5891,7 @@
     "district": "草屯鎮",
     "address": "南投縣草屯鎮虎山路９１５號",
     "phone": "049-231-4149",
-    "website": "",
+    "website": "http://www.thc-hospital.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -5705,13 +5905,14 @@
     "district": "竹山鎮",
     "address": "南投縣竹山鎮集山路2段75號",
     "phone": "049-262-4266",
-    "website": "",
+    "website": "http://www.csshow.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.csshow.org.tw/new_treatment/treatment_06.asp"
   },
   {
     "id": "1538041209",
@@ -5720,13 +5921,14 @@
     "district": "竹山鎮",
     "address": "南投縣竹山鎮集山路三段272巷16號",
     "phone": "049-265-8949",
-    "website": "",
+    "website": "http://www.dong.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.dong.org.tw/registered/?mode=date"
   },
   {
     "id": "0939010018",
@@ -5761,13 +5963,14 @@
     "district": "斗六市",
     "address": "雲林縣斗六市莊敬路345號",
     "phone": "055-322-017",
-    "website": "",
+    "website": "https://d6www.hosp.ncku.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://d6www.hosp.ncku.edu.tw/WebRegisterSite/DeptUI.aspx?Lang="
   },
   {
     "id": "0439010518",
@@ -5776,13 +5979,14 @@
     "district": "斗六市",
     "address": "雲林縣斗六市雲林路二段579號",
     "phone": "055-323-911",
-    "website": "",
+    "website": "https://www.ylh.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.ntuh.gov.tw/WebReg/WebReg/BranchIndex?vHospCode=Y0"
   },
   {
     "id": "1139010013",
@@ -5791,13 +5995,14 @@
     "district": "斗六市",
     "address": "雲林縣斗六市雲林路二段248號",
     "phone": "055-372-000",
-    "website": "",
+    "website": "https://douliou.tzuchi-healthcare.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://app.tzuchi.com.tw/tchw/opdreg/SecList_TL.aspx"
   },
   {
     "id": "1539010048",
@@ -5819,7 +6024,7 @@
     "district": "斗南鎮",
     "address": "雲林縣斗南鎮北銘里文昌路110號",
     "phone": "055-952-688",
-    "website": "",
+    "website": "https://fah.org.tw/",
     "services": [
       "門診",
       "骨科"
@@ -5832,13 +6037,14 @@
     "district": "虎尾鎮",
     "address": "雲林縣虎尾鎮新生路74號(民權路2號)",
     "phone": "056-337-333",
-    "website": "",
+    "website": "https://www.stjoho.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.stjoho.org.tw/www2012/guide4.aspx?l=afab3"
   },
   {
     "id": "1139040011",
@@ -5847,13 +6053,14 @@
     "district": "西螺鎮",
     "address": "雲林縣西螺鎮新豐里市場南路371、375號",
     "phone": "055-871-111",
-    "website": "",
+    "website": "https://web2yl.cch.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://web2yl.cch.org.tw/TIrg/opd/Service-e.aspx"
   },
   {
     "id": "1539040019",
@@ -5924,13 +6131,14 @@
     "district": "北港鎮",
     "address": "雲林縣北港鎮新德路１２３號",
     "phone": "05-783-7901",
-    "website": "",
+    "website": "http://www.bh.cmu.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://www2.bh.cmu.edu.tw/OnlineAppointment/AppointmentByDivision?flag=first"
   },
   {
     "id": "1139130010",
@@ -5939,13 +6147,14 @@
     "district": "麥寮鄉",
     "address": "雲林縣麥寮鄉中興村工業路1500號",
     "phone": "056-915-151",
-    "website": "",
+    "website": "https://www.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register_WEEK/M"
   },
   {
     "id": "1140010510",
@@ -5954,13 +6163,14 @@
     "district": "朴子市",
     "address": "嘉義縣朴子市仁和里長庚一路六號、嘉朴路西段八號",
     "phone": "05-362-1000",
-    "website": "",
+    "website": "https://www.cgmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://register.cgmh.org.tw/Register/6"
   },
   {
     "id": "0140010028",
@@ -5969,13 +6179,14 @@
     "district": "朴子市",
     "address": "嘉義縣朴子市永和里5鄰應菜埔４２－５０號",
     "phone": "05-379-0600",
-    "website": "",
+    "website": "https://www.puzih.mohw.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://netreg.puzih.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "1140030012",
@@ -5984,13 +6195,14 @@
     "district": "大林鎮",
     "address": "嘉義縣大林鎮平林里民生路2號",
     "phone": "05-264-8000",
-    "website": "",
+    "website": "https://dalin.tzuchi-healthcare.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://app.tzuchi.com.tw/tchw/OpdReg/SecList_DL.aspx"
   },
   {
     "id": "0640140012",
@@ -5999,13 +6211,14 @@
     "district": "竹崎鄉",
     "address": "嘉義縣竹崎鄉灣橋村石麻園38號",
     "phone": "05-279-1072",
-    "website": "",
+    "website": "https://www.vhwc.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.vhwc.gov.tw/PageView/ContentView?WebMenuID=6154850d-0cad-44cd-93e4-4c0b10428dcb"
   },
   {
     "id": "0943010044",
@@ -6029,7 +6242,8 @@
     "website": "",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "http://www.yusheng-hospital.com.tw/index01.htm"
   },
   {
     "id": "0943010026",
@@ -6050,13 +6264,14 @@
     "district": "屏東市",
     "address": "屏東縣屏東市中山路119、123號",
     "phone": "08-766-5995",
-    "website": "",
+    "website": "http://www.paochien.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.paochien.com.tw/twuse/opdRegNet"
   },
   {
     "id": "0643010011",
@@ -6086,7 +6301,8 @@
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "http://netreg.pntn.mohw.gov.tw/OInetreg/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "1543010190",
@@ -6109,7 +6325,7 @@
     "district": "屏東市",
     "address": "屏東縣屏東市民生東路12-2號",
     "phone": "08-722-3000",
-    "website": "",
+    "website": "http://www.golden-hospital.com.tw/",
     "services": [
       "門診",
       "住院",
@@ -6124,13 +6340,14 @@
     "district": "屏東市",
     "address": "屏東縣屏東市大連路６０號",
     "phone": "08-736-3026",
-    "website": "",
+    "website": "https://www.ptch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://www.ptch.org.tw/index.php/reg_listForm01"
   },
   {
     "id": "0543010019",
@@ -6139,7 +6356,7 @@
     "district": "屏東市",
     "address": "屏東縣屏東市大湖路５８巷２２號",
     "phone": "08-756-0756",
-    "website": "",
+    "website": "https://802.mnd.gov.tw/",
     "services": [
       "門診",
       "精神科",
@@ -6167,7 +6384,7 @@
     "district": "潮州鎮",
     "address": "屏東縣潮州鎮三星里四維路162及193號",
     "phone": "08-780-0888",
-    "website": "",
+    "website": "http://www.tsmh.org.tw/",
     "services": [
       "門診",
       "住院",
@@ -6182,13 +6399,14 @@
     "district": "東港鎮",
     "address": "屏東縣東港鎮中正路一段210號",
     "phone": "08-832-9966",
-    "website": "",
+    "website": "https://www.tsmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "http://www.tsmh.org.tw/sites/web_dg/show_web_page.php?edsno=970"
   },
   {
     "id": "1343030018",
@@ -6197,13 +6415,14 @@
     "district": "東港鎮",
     "address": "屏東縣東港鎮中山路５號",
     "phone": "08-832-3146",
-    "website": "",
+    "website": "http://www.fy.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://reg.fy.org.tw/fyrg/opd/Service-e.aspx"
   },
   {
     "id": "1143040010",
@@ -6212,12 +6431,13 @@
     "district": "恆春鎮",
     "address": "屏東縣恆春鎮山腳里恆西路21及21-1號",
     "phone": "08-889-2293",
-    "website": "",
+    "website": "https://www.hcch.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://ehpay.hcch.org.tw/GSRG/opd/service-e.aspx"
   },
   {
     "id": "0143040019",
@@ -6226,13 +6446,14 @@
     "district": "恆春鎮",
     "address": "屏東縣恆春鎮山腳里恆南路１８８、１８８－１號",
     "phone": "08-889-2705",
-    "website": "",
+    "website": "https://www.hcth.mohw.gov.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://netreg.hcth.mohw.gov.tw/OINetReg.WebRwd/"
   },
   {
     "id": "0943040015",
@@ -6241,10 +6462,11 @@
     "district": "恆春鎮",
     "address": "屏東縣恆春鎮南門路10號",
     "phone": "08-889-4568",
-    "website": "",
+    "website": "https://www.nanmen.org.tw/",
     "services": [
       "門診"
-    ]
+    ],
+    "appointmentUrl": "https://thcloudsrv.these.com.tw:2096/Opdregweb/Menu.aspx?hospitalID=0943040018"
   },
   {
     "id": "0943060017",
@@ -6266,7 +6488,7 @@
     "district": "高樹鄉",
     "address": "屏東縣高樹鄉高樹村南興路63號1樓與65號1樓",
     "phone": "08-796-7923",
-    "website": "",
+    "website": "http://www.golden-hospital.com.tw/",
     "services": [
       "門診",
       "骨科"
@@ -6333,13 +6555,14 @@
     "district": "枋寮鄉",
     "address": "屏東縣枋寮鄉安樂村中山路139號(代表號)及枋寮鄉安樂村隆山路59號",
     "phone": "08-878-9991",
-    "website": "",
+    "website": "https://www.flgh.org.tw/",
     "services": [
       "門診",
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://mobile.flgh.org.tw/Doctor/Register1.aspx"
   },
   {
     "id": "1144010016",
@@ -6361,13 +6584,14 @@
     "district": "馬公市",
     "address": "澎湖縣馬公市前寮里90號1-5樓",
     "phone": "06-921-1116",
-    "website": "",
+    "website": "https://afph.tsgh.ndmctsgh.edu.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://netreg.afph.tsgh.ndmctsgh.edu.tw/"
   },
   {
     "id": "0144010015",
@@ -6406,13 +6630,14 @@
     "district": "花蓮市",
     "address": "花蓮縣花蓮市中央路三段７０７號",
     "phone": "038-561-825",
-    "website": "",
+    "website": "https://hlm.tzuchi.com.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://app.tzuchi.com.tw/tchw/OpdReg/SecList_HL.aspx"
   },
   {
     "id": "0145010019",
@@ -6436,7 +6661,7 @@
     "district": "鳳林鎮",
     "address": "花蓮縣鳳林鎮中正路一段2號",
     "phone": "038-763-331",
-    "website": "",
+    "website": "http://www.flvh.gov.tw/",
     "services": [
       "門診",
       "住院",
@@ -6464,7 +6689,7 @@
     "district": "玉里鎮",
     "address": "花蓮縣玉里鎮新興街９１號",
     "phone": "038-883-141",
-    "website": "",
+    "website": "http://www.vhyl.gov.tw/",
     "services": [
       "門診",
       "住院",
@@ -6479,13 +6704,14 @@
     "district": "玉里鎮",
     "address": "花蓮縣玉里鎮民權街1之 1號",
     "phone": "038-882-718",
-    "website": "",
+    "website": "https://yuli.tzuchi.com.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://app.tzuchi.com.tw/tchw/OpdReg/SecList_UL.aspx"
   },
   {
     "id": "0545040515",
@@ -6536,7 +6762,7 @@
     "district": "臺東市",
     "address": "臺東縣臺東市更生路1000號",
     "phone": "089-325-840",
-    "website": "",
+    "website": "http://www.vhtt.gov.tw/",
     "services": [
       "門診",
       "住院",
@@ -6551,13 +6777,14 @@
     "district": "臺東市",
     "address": "臺東縣臺東市民族里21鄰杭州街2號",
     "phone": "089-322-833",
-    "website": "",
+    "website": "http://www.st-mary.org.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://www.st-mary.org.tw/2_public_1.html"
   },
   {
     "id": "1146010032",
@@ -6566,13 +6793,14 @@
     "district": "臺東市",
     "address": "臺東縣臺東市開封街３５０號",
     "phone": "089-323-362",
-    "website": "",
+    "website": "https://www.tch.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "中醫"
-    ]
+    ],
+    "appointmentUrl": "https://his.tch.org.tw/TCRG2/opd/Service-e.aspx"
   },
   {
     "id": "0146010013",
@@ -6596,13 +6824,14 @@
     "district": "臺東市",
     "address": "臺東縣臺東市長沙街３０３巷１號",
     "phone": "089-310-150",
-    "website": "",
+    "website": "https://ttw3.mmh.org.tw/",
     "services": [
       "門診",
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://ttw3.mmh.org.tw/register_info.php"
   },
   {
     "id": "0146020537",
@@ -6624,13 +6853,14 @@
     "district": "關山鎮",
     "address": "臺東縣關山鎮和平路１２５之５號",
     "phone": "089-814-880",
-    "website": "",
+    "website": "https://kuanshan.tzuchi.com.tw/",
     "services": [
       "門診",
       "住院",
       "中醫",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://app.tzuchi.com.tw/tchw/OpdReg/SecList_GS.aspx"
   },
   {
     "id": "0190030516",
@@ -6645,7 +6875,8 @@
       "住院",
       "精神科",
       "復健"
-    ]
+    ],
+    "appointmentUrl": "https://netreg.kmhp.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx"
   },
   {
     "id": "0291010010",
@@ -6660,6 +6891,7 @@
       "住院",
       "復健",
       "骨科"
-    ]
+    ],
+    "appointmentUrl": "https://ljc.matsuh.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx"
   }
 ]
