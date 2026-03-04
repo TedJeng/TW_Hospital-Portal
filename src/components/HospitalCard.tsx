@@ -1,5 +1,26 @@
-import { MapPin, Phone, ExternalLink, Tag, Heart, CalendarDays } from "lucide-react";
+import { MapPin, Phone, ExternalLink, Tag, Heart, CalendarDays, type LucideIcon } from "lucide-react";
 import type { Hospital } from "@/types";
+
+interface CtaLinkProps {
+  href: string;
+  color: string;
+  icon: LucideIcon;
+  iconPosition?: "left" | "right";
+  children: React.ReactNode;
+}
+
+const CtaLink = ({ href, color, icon: Icon, iconPosition = "left", children }: CtaLinkProps) => (
+  <a
+    href={href}
+    target="_blank"
+    rel="noopener noreferrer"
+    className={`inline-flex items-center justify-center gap-2 rounded-xl ${color} px-4 py-2.5 text-sm font-medium text-white active:scale-95 transition-all duration-150`}
+  >
+    {iconPosition === "left" && <Icon size={14} />}
+    {children}
+    {iconPosition === "right" && <Icon size={14} />}
+  </a>
+);
 
 interface HospitalCardProps {
   hospital: Hospital;
@@ -82,32 +103,19 @@ const HospitalCard = ({
       {/* CTA */}
       <div className="mt-auto flex flex-col gap-2">
         {hospital.appointmentUrl && (
-          <a
-            href={hospital.appointmentUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-2 rounded-xl bg-emerald-600 px-4 py-2.5 text-sm font-medium text-white hover:bg-emerald-700 active:scale-95 transition-all duration-150"
-          >
-            <CalendarDays size={14} />
+          <CtaLink href={hospital.appointmentUrl} color="bg-emerald-600 hover:bg-emerald-700" icon={CalendarDays}>
             網路掛號
-          </a>
+          </CtaLink>
         )}
-        {hospital.website ? (
-          <a
-            href={hospital.website}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-2 rounded-xl bg-blue-600 px-4 py-2.5 text-sm font-medium text-white hover:bg-blue-700 active:scale-95 transition-all duration-150"
-          >
+        {hospital.website && (
+          <CtaLink href={hospital.website} color="bg-blue-600 hover:bg-blue-700" icon={ExternalLink} iconPosition="right">
             前往官方網站
-            <ExternalLink size={14} />
-          </a>
-        ) : (
-          !hospital.appointmentUrl && (
-            <div className="inline-flex items-center justify-center gap-2 rounded-xl bg-gray-100 px-4 py-2.5 text-sm font-medium text-gray-400 cursor-not-allowed">
-              官方網站未提供
-            </div>
-          )
+          </CtaLink>
+        )}
+        {!hospital.website && !hospital.appointmentUrl && (
+          <div className="inline-flex items-center justify-center gap-2 rounded-xl bg-gray-100 px-4 py-2.5 text-sm font-medium text-gray-400 cursor-not-allowed">
+            官方網站未提供
+          </div>
         )}
       </div>
     </div>

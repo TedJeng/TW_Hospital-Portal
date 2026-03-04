@@ -7,6 +7,7 @@ export_hospitals.py
 """
 import sys
 import json
+from collections import Counter
 from pathlib import Path
 
 import openpyxl
@@ -31,11 +32,6 @@ COLUMNS = [
     ("科別",       "services",       30),
 ]
 
-# 標頭樣式
-HEADER_FILL  = PatternFill("solid", fgColor="2563EB")   # 藍色
-HEADER_FONT  = Font(name="微軟正黑體", bold=True, color="FFFFFF", size=11)
-HEADER_ALIGN = Alignment(horizontal="center", vertical="center", wrap_text=False)
-
 # 資料列樣式
 DATA_FONT    = Font(name="微軟正黑體", size=10)
 DATA_ALIGN   = Alignment(vertical="center", wrap_text=False)
@@ -44,6 +40,15 @@ ALT_FILL     = PatternFill("solid", fgColor="EFF6FF")   # 淺藍（偶數列）
 # 邊框
 THIN = Side(style="thin", color="D1D5DB")
 BORDER = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
+
+
+def apply_header_style(ws) -> None:
+    """套用標頭列樣式（藍底白字 + 邊框）"""
+    for cell in ws[1]:
+        cell.fill      = PatternFill("solid", fgColor="2563EB")
+        cell.font      = Font(name="微軟正黑體", bold=True, color="FFFFFF", size=11)
+        cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=False)
+        cell.border    = BORDER
 
 
 def main():
@@ -56,13 +61,8 @@ def main():
     ws.freeze_panes = "A2"   # 凍結標頭列
 
     # ── 標頭 ──────────────────────────────────────────────────────────
-    headers = [col[0] for col in COLUMNS]
-    ws.append(headers)
-    for col_idx, cell in enumerate(ws[1], start=1):
-        cell.fill    = HEADER_FILL
-        cell.font    = HEADER_FONT
-        cell.alignment = HEADER_ALIGN
-        cell.border  = BORDER
+    ws.append([col[0] for col in COLUMNS])
+    apply_header_style(ws)
 
     # ── 資料列 ────────────────────────────────────────────────────────
     for row_idx, h in enumerate(hospitals, start=2):
@@ -87,11 +87,12 @@ def main():
             # 官網 / 掛號欄位加超連結
             col_key = COLUMNS[col_idx - 1][1]
             if col_key in ("website", "appointmentUrl") and cell.value:
+                is_odd_row = row_idx % 2 == 1
                 cell.hyperlink = cell.value
                 cell.font = Font(
                     name="微軟正黑體", size=10,
                     color="2563EB", underline="single",
-                    bold=(fill is None),  # 奇數列 bold，偶數列正常
+                    bold=is_odd_row,
                 )
 
     # ── 欄寬 ─────────────────────────────────────────────────────────
@@ -111,12 +112,8 @@ def main():
     ws_stats.column_dimensions["A"].width = 20
     ws_stats.column_dimensions["B"].width = 12
 
-    stats_header = ["項目", "數量"]
-    ws_stats.append(stats_header)
-    for cell in ws_stats[1]:
-        cell.fill  = HEADER_FILL
-        cell.font  = HEADER_FONT
-        cell.alignment = HEADER_ALIGN
+    ws_stats.append(["項目", "數量"])
+    apply_header_style(ws_stats)
 
     total    = len(hospitals)
     has_web  = sum(1 for h in hospitals if h.get("website"))
@@ -124,10 +121,7 @@ def main():
     no_web   = total - has_web
     no_appt  = total - has_appt
 
-    # 縣市統計
-    city_counts: dict[str, int] = {}
-    for h in hospitals:
-        city_counts[h["city"]] = city_counts.get(h["city"], 0) + 1
+    city_counts = Counter(h["city"] for h in hospitals)
 
     stats_rows = [
         ("醫院總數",         total),
